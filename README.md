@@ -93,10 +93,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Explanation of 90th percentile for statD 2016-07-12  
 &emsp;&emsp;&emsp;&emsp;腾讯亿万量级告警是如何做到全、准、快的？ 2016-07-14  
 &emsp;&emsp;&emsp;&emsp;用grafana展示zabbix数据 2016-07-15  
-&emsp;&emsp;&emsp;&emsp;饿了么私有云之总体规划及工作计划 2016-07-20  
-&emsp;&emsp;&emsp;&emsp;饿了么私有云之Docker 2016-08-02  
 &emsp;&emsp;&emsp;&emsp;从敏捷死了到Devops死了 2016-08-10  
 &emsp;&emsp;&emsp;&emsp;你需要了解的未来技术趋势——serverless怎样改变未来架构 2016-08-10  
+&emsp;&emsp;&emsp;&emsp;xxx私有云之总体规划及工作计划 2016-07-20  
+&emsp;&emsp;&emsp;&emsp;xxx私有云之Docker 2016-08-02  
 - 程序语言  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
@@ -232,7 +232,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;大数据：编程语言真的重要吗？ 2016-06-12  
 &emsp;&emsp;&emsp;&emsp;自己动手造语言 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;语言实现的几种方式 2016-06-15  
-&emsp;&emsp;&emsp;&emsp;笔记冲突 语言实现的几种方式 2016-06-27  
 &emsp;&emsp;&emsp;&emsp;语言理论的概念和误解 2016-06-27  
 &emsp;&emsp;&emsp;&emsp;The RedMonk Programming Language Rankings: June 2016 2016-07-23  
 &emsp;&emsp;&emsp;&emsp;Programming Languages Popularity in 2015 2016-07-23  
