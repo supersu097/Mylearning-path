@@ -52,12 +52,12 @@ A list of all my notes below in Evernote to show my learning road map in the pas
 
     with open('README.md', 'a+') as r:
         for groupname in groupList:
-            print >> r, '- ' + groupname
+            print >> r, '- ' + groupname + '  '
             for _ in noteStore.listNotebooks():
                 if _.stack == groupname:
-                    print >> r, '&emsp;&emsp;' + _.name
+                    print >> r, '&emsp;&emsp;' + _.name + '  '
                     for _ in notes_list_requests(_.guid, noteStore).notes:
-                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, time_convert(_.created)
+                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, time_convert(_.created) + '  '
 
 
 if __name__ == '__main__':
