@@ -2,13 +2,63 @@
 # coding=utf-8
 # Created by sharp.gan at 2016-09-17
 from evernote.api.client import EvernoteClient
+from evernote.edam.notestore.ttypes import NoteFilter, NotesMetadataResultSpec
+import pprint
 import config
-if __name__ == '__main__':
-    client = EvernoteClient(token=config.dev_token)
-    # userStore = client.get_user_store()
-    # user = userStore.getUser()
-    # print user.username
+import uniout
+import time
+import pickle
+import json
+
+"""
+Credit:
+http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
+"""
+
+
+def notes_list_requests(notebookGuid, noteStore):
+    filterInstance = NoteFilter(notebookGuid=notebookGuid)
+    offset = 0
+    max_notes = 250
+    result_spec = NotesMetadataResultSpec(includeTitle=True,
+                                          includeCreated=True,
+                                          # includeTagGuids=True
+                                          )
+    result_list = noteStore.findNotesMetadata(config.dev_token,
+                                              filterInstance,
+                                              offset,
+                                              max_notes,
+                                              result_spec)
+    return result_list
+
+
+def time_convert(timestamp):
+    time_cleared = int(str(timestamp)[0:-3])
+    time_converted = time.strftime('%Y-%m-%d', time.localtime(time_cleared))
+    return time_converted
+
+
+def main():
+    client = EvernoteClient(token=config.dev_token,
+                            sandbox=False)
     noteStore = client.get_note_store()
-    notebooks = noteStore.listNotebooks()
-    for n in notebooks:
-       print n.name
+    groupList = set([_.stack for _ in noteStore.listNotebooks()])
+    with open('README.md', 'w') as r:
+        r.write("""
+# Mylearning-road
+A list of all my notes below in Evernote to show my learning road map in the past.
+
+""")
+
+    with open('README.md', 'a+') as r:
+        for groupname in groupList:
+            print >> r, '- ' + groupname
+            for _ in noteStore.listNotebooks():
+                if _.stack == groupname:
+                    print >> r, '&emsp;&emsp;' + _.name
+                    for _ in notes_list_requests(_.guid, noteStore).notes:
+                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, time_convert(_.created)
+
+
+if __name__ == '__main__':
+    main()
