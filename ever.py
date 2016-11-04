@@ -46,6 +46,8 @@ A list of all my notes below in Evernote to show my learning road map and some o
 
 ## Credit
 http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
+
+-------------
 """)
 
     with open('README.md', 'a+') as r:
@@ -55,8 +57,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
                 if _.stack == groupname:
                     print >> r, '&emsp;&emsp;' + _.name + '  '
                     for _ in notes_list_requests(_.guid, noteStore).notes:
-                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, \
-                            '&emsp;&emsp;' + time_convert(_.created) + '  '
+                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, time_convert(_.created) + '  '
 
 
 if __name__ == '__main__':
