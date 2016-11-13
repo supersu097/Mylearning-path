@@ -78,6 +78,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;中国互联网20年红利到顶，全面启动收割模式 2016-10-21  
 &emsp;&emsp;&emsp;&emsp;我为什么喜欢编程？ - wolangjushi的专栏 - 博客频道 - CSDN.NET 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
+&emsp;&emsp;&emsp;&emsp;ops技术运营部花名册 2016-11-11  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
@@ -97,6 +98,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;你需要了解的未来技术趋势——serverless怎样改变未来架构 2016-08-10  
 &emsp;&emsp;&emsp;&emsp;xxx私有云之总体规划及工作计划 2016-07-20  
 &emsp;&emsp;&emsp;&emsp;xxx私有云之Docker 2016-08-02  
+&emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
 - 程序语言  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
@@ -189,6 +191,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Decorators and Functional Python 2016-10-13  
 &emsp;&emsp;&emsp;&emsp;Python smtplib发送邮件 2016-10-28  
 &emsp;&emsp;&emsp;&emsp;Online Python Tutor - Visualize Python code execution 2015-10-30  
+&emsp;&emsp;&emsp;&emsp;python 信息同时输出到控制台与文件 2016-11-05  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -242,6 +245,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;英语  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
 &emsp;&emsp;&emsp;&emsp;Negative prefixes 2016-07-31  
+&emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English - Learn English Mistakes 2016-11-09  
+&emsp;&emsp;&emsp;&emsp;各种符号用英语怎么说 2016-11-13  
 &emsp;&emsp;汉语  
 - 操作系统  
 &emsp;&emsp;Mac OS  
@@ -331,7 +336,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Linux touch 命令-为什么我们需要改变时间戳？ 2015-09-01  
 &emsp;&emsp;&emsp;&emsp;Triggering Commands On File/Directory Changes With Incron 2015-08-24  
 &emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
-&emsp;&emsp;&emsp;&emsp;linux 技巧：使用 screen 管理你的远程会话 2015-07-08  
 &emsp;&emsp;&emsp;&emsp;nat123软件linux2.8及以上版本的安装启动教程 2015-08-29  
 &emsp;&emsp;&emsp;&emsp;fix a “Failed to download package files” error 2015-07-13  
 &emsp;&emsp;&emsp;&emsp;从root用户切回user用户 2015-07-13  
@@ -384,7 +388,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Mastering the Command Line History in Linux 2016-07-15  
 &emsp;&emsp;&emsp;&emsp;Linux从group中删除用户以及追加用户到附属组 2016-05-12  
 &emsp;&emsp;&emsp;&emsp;如何使用 Linux，让你在网上保持匿名？ 2016-08-16  
-&emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
+&emsp;&emsp;&emsp;&emsp;linux 技巧-IBM解析：使用 screen 管理你的远程会话 2015-07-08  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
