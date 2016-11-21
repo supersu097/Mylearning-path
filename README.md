@@ -192,6 +192,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Python smtplib发送邮件 2016-10-28  
 &emsp;&emsp;&emsp;&emsp;Online Python Tutor - Visualize Python code execution 2015-10-30  
 &emsp;&emsp;&emsp;&emsp;python 信息同时输出到控制台与文件 2016-11-05  
+&emsp;&emsp;&emsp;&emsp;Python yield 使用浅析 2016-11-14  
+&emsp;&emsp;&emsp;&emsp;python smtplib 发送邮件 以及解决乱码 2016-11-21  
+&emsp;&emsp;&emsp;&emsp;Using Optional and Named Arguments 2016-11-21  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -245,8 +248,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;英语  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
 &emsp;&emsp;&emsp;&emsp;Negative prefixes 2016-07-31  
-&emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English - Learn English Mistakes 2016-11-09  
 &emsp;&emsp;&emsp;&emsp;各种符号用英语怎么说 2016-11-13  
+&emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English 2016-11-09  
 &emsp;&emsp;汉语  
 - 操作系统  
 &emsp;&emsp;Mac OS  
