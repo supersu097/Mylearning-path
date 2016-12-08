@@ -1,16 +1,11 @@
 #!/usr/bin/env python
 # coding=utf-8
 # Created by sharp.gan at 2016-09-17
+
+import config
+import time
 from evernote.api.client import EvernoteClient
 from evernote.edam.notestore.ttypes import NoteFilter, NotesMetadataResultSpec
-import config
-import uniout
-import time
-
-"""
-
-"""
-
 
 def notes_list_requests(notebookGuid, noteStore):
     filterInstance = NoteFilter(notebookGuid=notebookGuid)
