@@ -78,7 +78,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;中国互联网20年红利到顶，全面启动收割模式 2016-10-21  
 &emsp;&emsp;&emsp;&emsp;我为什么喜欢编程？ - wolangjushi的专栏 - 博客频道 - CSDN.NET 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
-&emsp;&emsp;&emsp;&emsp;ops技术运营部花名册 2016-11-11  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
@@ -151,7 +150,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python之嵌套函数与闭包 2016-01-13  
 &emsp;&emsp;&emsp;&emsp;Python csv模块的使用 2016-01-14  
 &emsp;&emsp;&emsp;&emsp;python的文件操作file:（内置函数，如seek、truncate函数） 2016-01-14  
-&emsp;&emsp;&emsp;&emsp;Python正则表达式指南 2016-02-22  
 &emsp;&emsp;&emsp;&emsp;Argparse Tutorial(Python HOW-TO) 2016-03-25  
 &emsp;&emsp;&emsp;&emsp;Argparse(PyMOTW) - 命令行选项与参数 2016-03-31  
 &emsp;&emsp;&emsp;&emsp;Python os模块学习 2016-04-03  
@@ -392,6 +390,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Linux从group中删除用户以及追加用户到附属组 2016-05-12  
 &emsp;&emsp;&emsp;&emsp;如何使用 Linux，让你在网上保持匿名？ 2016-08-16  
 &emsp;&emsp;&emsp;&emsp;linux 技巧-IBM解析：使用 screen 管理你的远程会话 2015-07-08  
+&emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
