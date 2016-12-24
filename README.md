@@ -36,6 +36,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;长者段子 2016-09-30  
+&emsp;&emsp;&emsp;&emsp;曾国藩的人格缺陷：缺怜悯的残忍儒生 2016-12-24  
+&emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -77,7 +79,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;浅谈程序员的英语学习 2016-08-02  
 &emsp;&emsp;&emsp;&emsp;中国互联网20年红利到顶，全面启动收割模式 2016-10-21  
 &emsp;&emsp;&emsp;&emsp;我为什么喜欢编程？ - wolangjushi的专栏 - 博客频道 - CSDN.NET 2016-10-26  
-&emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
@@ -193,6 +194,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Python yield 使用浅析 2016-11-14  
 &emsp;&emsp;&emsp;&emsp;python smtplib 发送邮件 以及解决乱码 2016-11-21  
 &emsp;&emsp;&emsp;&emsp;Using Optional and Named Arguments 2016-11-21  
+&emsp;&emsp;&emsp;&emsp;"fatal error: openssl/opensslv.h: No such file or directory" compiling mitmproxy 2016-12-20  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -391,6 +393,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;如何使用 Linux，让你在网上保持匿名？ 2016-08-16  
 &emsp;&emsp;&emsp;&emsp;linux 技巧-IBM解析：使用 screen 管理你的远程会话 2015-07-08  
 &emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
+&emsp;&emsp;&emsp;&emsp;Building Vim from source 2016-12-12  
+&emsp;&emsp;&emsp;&emsp;4 CCleaner Alternatives For Ubuntu Linux 2016-12-13  
+&emsp;&emsp;&emsp;&emsp;Pipe to "xargs rm" : filename with spaces 2016-12-16  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
