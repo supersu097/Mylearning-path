@@ -7,6 +7,7 @@ import time
 from evernote.api.client import EvernoteClient
 from evernote.edam.notestore.ttypes import NoteFilter, NotesMetadataResultSpec
 
+
 def notes_list_requests(notebookGuid, noteStore):
     filterInstance = NoteFilter(notebookGuid=notebookGuid)
     offset = 0
@@ -33,11 +34,13 @@ def main():
     client = EvernoteClient(token=config.dev_token,
                             sandbox=False)
     noteStore = client.get_note_store()
+    print 'We are pulling some notes, it takes some times...'
     groupList = set([_.stack for _ in noteStore.listNotebooks()])
     with open('README.md', 'w') as r:
         r.write("""
 # Mylearning-road
-A list of all my notes below in Evernote to show my learning road map and some other in the past.
+A list of all my notes below in Evernote to show my learning road map
+and some other in the past.
 
 # Credit
 http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
@@ -53,7 +56,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
                 if _.stack == groupname:
                     print >> r, '&emsp;&emsp;' + _.name + '  '
                     for _ in notes_list_requests(_.guid, noteStore).notes:
-                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + _.title, time_convert(_.created) + '  '
+                        print >> r, '&emsp;&emsp;&emsp;&emsp;' + \
+                            _.title, time_convert(_.created) + '  '
 
 
 if __name__ == '__main__':
