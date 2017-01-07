@@ -31,10 +31,10 @@ def time_convert(timestamp):
 
 
 def main():
+    print 'We are pulling some notes, it takes some times...'
     client = EvernoteClient(token=config.dev_token,
                             sandbox=False)
     noteStore = client.get_note_store()
-    print 'We are pulling some notes, it takes some times...'
     groupList = set([_.stack for _ in noteStore.listNotebooks()])
     with open('README.md', 'w') as r:
         r.write("""
