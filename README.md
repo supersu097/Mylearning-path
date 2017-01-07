@@ -1,6 +1,7 @@
 
 # Mylearning-road
-A list of all my notes below in Evernote to show my learning road map and some other in the past.
+A list of all my notes below in Evernote to show my learning road map
+and some other in the past.
 
 # Credit
 http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
@@ -65,6 +66,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;王垠的过去和现状 - DiyCode 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;如何赢得技术争论 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;王垠：赞那啥思考 2016-06-26  
+&emsp;&emsp;&emsp;&emsp;如何掌握程序语言 2016-12-29  
+&emsp;&emsp;&emsp;&emsp;从工具的奴隶到工具的主人 2016-12-29  
 &emsp;&emsp;程序人生  
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;如何看待 Max Howell 被 Google 拒绝 2016-06-05  
@@ -195,6 +198,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python smtplib 发送邮件 以及解决乱码 2016-11-21  
 &emsp;&emsp;&emsp;&emsp;Using Optional and Named Arguments 2016-11-21  
 &emsp;&emsp;&emsp;&emsp;"fatal error: openssl/opensslv.h: No such file or directory" compiling mitmproxy 2016-12-20  
+&emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -241,6 +245,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;语言理论的概念和误解 2016-06-27  
 &emsp;&emsp;&emsp;&emsp;The RedMonk Programming Language Rankings: June 2016 2016-07-23  
 &emsp;&emsp;&emsp;&emsp;Programming Languages Popularity in 2015 2016-07-23  
+&emsp;&emsp;&emsp;&emsp;A Gentle Introduction to Algorithm Complexity Analysis 2017-01-03  
 &emsp;&emsp;Debug  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
@@ -250,6 +255,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Negative prefixes 2016-07-31  
 &emsp;&emsp;&emsp;&emsp;各种符号用英语怎么说 2016-11-13  
 &emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English 2016-11-09  
+&emsp;&emsp;&emsp;&emsp;also, too, either, as well的区别 2017-01-02  
 &emsp;&emsp;汉语  
 - 操作系统  
 &emsp;&emsp;Mac OS  
