@@ -12,16 +12,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;当日  
 &emsp;&emsp;近期  
 &emsp;&emsp;长远  
-&emsp;&emsp;&emsp;&emsp;kennknowles/python-rightarrow 2016-07-23  
 &emsp;&emsp;&emsp;&emsp;Type Hinting in PyCharm 2016-07-23  
 &emsp;&emsp;&emsp;&emsp;PEP 484 -- Type Hints 2016-07-23  
-&emsp;&emsp;&emsp;&emsp;Teaching an AI to write Python code with Python code • Will cars dream? 2016-07-30  
 &emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
-&emsp;&emsp;&emsp;&emsp;10 things I hate about Git 2016-07-30  
-&emsp;&emsp;&emsp;&emsp;PyCharm as a Python IDE for Generating UML Diagrams 2016-08-18  
-&emsp;&emsp;&emsp;&emsp;Git Workflow Basics — The Miners 2016-08-18  
-&emsp;&emsp;&emsp;&emsp;用 Python 实现 Python 解释器-软件开发|Linux.中国-开源社区 2016-09-09  
-&emsp;&emsp;&emsp;&emsp;Simple Python Framework from Scratch 2016-09-16  
 &emsp;&emsp;待评估  
 &emsp;&emsp;&emsp;&emsp;Maven的安装、配置及使用入门 2016-07-04  
 - 其它  
@@ -35,10 +28,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;卢志丹 -- 青年毛泽东评王安石变法失败的原因 2016-05-29  
 &emsp;&emsp;&emsp;&emsp;Graceful English sentence,I think 2016-07-28  
 &emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
-&emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;长者段子 2016-09-30  
 &emsp;&emsp;&emsp;&emsp;曾国藩的人格缺陷：缺怜悯的残忍儒生 2016-12-24  
 &emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
+&emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -114,7 +107,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Shell：echo如何输出带颜色的文本 2015-08-18  
 &emsp;&emsp;&emsp;&emsp;linux中shell变量$#,$@,$0,$1,$2的含义解释 2015-10-10  
 &emsp;&emsp;&emsp;&emsp;shell eval命令使用 2015-10-19  
-&emsp;&emsp;&emsp;&emsp;linux 正则表达式和grep命令 2015-10-27  
 &emsp;&emsp;&emsp;&emsp;eval命令妙用—变量嵌套替换 2015-11-24  
 &emsp;&emsp;&emsp;&emsp;我使用过的Linux命令之trap - 在脚本中处理信号 - Bash @ Linux - ITeye技术网站 2015-12-07  
 &emsp;&emsp;&emsp;&emsp;[Shell学习笔记] 切分文件名提取文件扩展名或提取文件名_技术文档_组装电脑之家 2015-12-10  
@@ -126,6 +118,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;使用bash-support插件把Vim变成你的Bash-IDE 2015-12-13  
 &emsp;&emsp;&emsp;&emsp;Bash shell的set命令 2016-07-27  
 &emsp;&emsp;&emsp;&emsp;Bash数组操作教程 2016-08-11  
+&emsp;&emsp;&emsp;&emsp;linux 正则表达式和grep命令 2015-10-27  
 &emsp;&emsp;OtherPL  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
@@ -158,7 +151,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Argparse(PyMOTW) - 命令行选项与参数 2016-03-31  
 &emsp;&emsp;&emsp;&emsp;Python os模块学习 2016-04-03  
 &emsp;&emsp;&emsp;&emsp;python有三种导入模块的方法 2016-04-04  
-&emsp;&emsp;&emsp;&emsp;python模块及包的导入 2016-04-04  
 &emsp;&emsp;&emsp;&emsp;python读取文件小结 2016-04-05  
 &emsp;&emsp;&emsp;&emsp;python字符串格式化 2016-04-07  
 &emsp;&emsp;&emsp;&emsp;老鸟的Python入门教程 2016-04-10  
@@ -167,7 +159,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python继承和多态 2016-04-14  
 &emsp;&emsp;&emsp;&emsp;python时间,日期,时间戳处理 2016-04-18  
 &emsp;&emsp;&emsp;&emsp;python 编码问题 2016-05-03  
-&emsp;&emsp;&emsp;&emsp;python 字符编码与解码——unicode、str和中文 2016-05-03  
 &emsp;&emsp;&emsp;&emsp;Python 标准输出 sys.stdout 重定向 2016-05-04  
 &emsp;&emsp;&emsp;&emsp;Python 最难的问题 2016-05-23  
 &emsp;&emsp;&emsp;&emsp;python小结 2016-06-06  
@@ -199,16 +190,18 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Using Optional and Named Arguments 2016-11-21  
 &emsp;&emsp;&emsp;&emsp;"fatal error: openssl/opensslv.h: No such file or directory" compiling mitmproxy 2016-12-20  
 &emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
+&emsp;&emsp;&emsp;&emsp;python模块及包的导入 2016-04-04  
+&emsp;&emsp;&emsp;&emsp;python 字符编码与解码——unicode、str和中文 2016-05-03  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
 &emsp;&emsp;&emsp;&emsp;Java中重载和重写的区别 2016-04-13  
-&emsp;&emsp;&emsp;&emsp;Java基础——隐式转换vs强制转换 2016-05-08  
 &emsp;&emsp;&emsp;&emsp;Java 中调用方法时的显式参数与隐式参数 2016-05-14  
 &emsp;&emsp;&emsp;&emsp;Java : 一个帝国的诞生 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 安装 JDK 7 / JDK8 的两种方式 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;泛型和面向接口 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;ubuntu maven环境安装配置 2016-07-01  
+&emsp;&emsp;&emsp;&emsp;Java基础——隐式转换vs强制转换 2016-05-08  
 &emsp;&emsp;Type  
 &emsp;&emsp;&emsp;&emsp;动态语言_百度百科 2016-06-05  
 &emsp;&emsp;&emsp;&emsp;动态语言企业应用优缺点浅析 2016-06-06  
@@ -256,7 +249,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;各种符号用英语怎么说 2016-11-13  
 &emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English 2016-11-09  
 &emsp;&emsp;&emsp;&emsp;also, too, either, as well的区别 2017-01-02  
+&emsp;&emsp;&emsp;&emsp;「對不起」到底是sorry, excuse me, 還是pardon呢？一次讓你搞懂怎麼用英文道歉！ 2017-01-07  
 &emsp;&emsp;汉语  
+&emsp;&emsp;法语  
+&emsp;&emsp;&emsp;&emsp;在法国，转角遇到法式英语 2017-02-03  
 - 操作系统  
 &emsp;&emsp;Mac OS  
 &emsp;&emsp;&emsp;&emsp;Mac 光标按照单词移动 2016-03-18  
@@ -265,6 +261,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Mac版Mousepose使用教程 2016-04-24  
 &emsp;&emsp;&emsp;&emsp;mac 下终端iterm2 使用技巧 2016-05-07  
 &emsp;&emsp;&emsp;&emsp;Mac OS X 安装GUN命令行工具 2016-06-19  
+&emsp;&emsp;&emsp;&emsp;macOS Sierra 如何打开任何来源 2017-02-05  
 &emsp;&emsp;Android  
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;android展讯6820内置可卸载可恢复的apk应用 2015-08-10  
@@ -298,7 +295,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Use Jenkins Automate Your ROM 2015-09-19  
 &emsp;&emsp;&emsp;&emsp;Android修改系统/应用签名 2015-09-19  
 &emsp;&emsp;&emsp;&emsp;Android中的签名机制--CSDN_李先静 2015-12-05  
-&emsp;&emsp;&emsp;&emsp;Invalid policyvers specified: 26解决方案 2015-09-09  
 &emsp;&emsp;&emsp;&emsp;详解公钥、私钥、数字证书的概念 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;如何预置Android 手机 APK 2015-07-22  
 &emsp;&emsp;&emsp;&emsp;Android签名总结 - wanqi - 博客园 2015-12-06  
@@ -312,12 +308,13 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;方法一：android程序中证书签名校验 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;方法二：android程序中证书签名校验 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;Signing Builds for Release | Android Open Source Project 2015-12-06  
-&emsp;&emsp;&emsp;&emsp;Android——编译release版签名系统 2015-12-06  
 &emsp;&emsp;&emsp;&emsp;数字签名简介 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;在 Android 上玩转 Linux 2015-12-01  
 &emsp;&emsp;&emsp;&emsp;adb device找不到设备 2016-07-16  
 &emsp;&emsp;&emsp;&emsp;mac os使用lsusb命令和连接未知的Android设备 2016-07-16  
 &emsp;&emsp;&emsp;&emsp;ubuntu 12.10的vmware虚拟机中连接android手机设备调试 2016-07-16  
+&emsp;&emsp;&emsp;&emsp;Invalid policyvers specified: 26解决方案 2015-09-09  
+&emsp;&emsp;&emsp;&emsp;Android——编译release版签名系统 2015-12-06  
 &emsp;&emsp;&emsp;&emsp;Android——编译体系中的【PRODUCT_COPY_FILES】【ALL_PREBUILT】 2015-12-06  
 &emsp;&emsp;GNU/Linux  
 &emsp;&emsp;&emsp;&emsp;CentOS6.5配置网络 2016-03-19  
@@ -402,6 +399,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Building Vim from source 2016-12-12  
 &emsp;&emsp;&emsp;&emsp;4 CCleaner Alternatives For Ubuntu Linux 2016-12-13  
 &emsp;&emsp;&emsp;&emsp;Pipe to "xargs rm" : filename with spaces 2016-12-16  
+&emsp;&emsp;&emsp;&emsp;使用 Vagrant 打造跨平台开发环境 2017-01-22  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
@@ -417,7 +415,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Upgrading to the last version of Git from the source repository or PPA 2016-08-08  
 &emsp;&emsp;&emsp;&emsp;Markdown 语言中的空格问题 2016-09-23  
 &emsp;&emsp;Vim  
-&emsp;&emsp;&emsp;&emsp;vim的复制粘贴(包括系统剪贴板) 2015-08-28  
 &emsp;&emsp;&emsp;&emsp;简明 Vim 练级攻略 2015-08-27  
 &emsp;&emsp;&emsp;&emsp;vim配置 2015-08-22  
 &emsp;&emsp;&emsp;&emsp;vim粘帖的一个问题分析(pastetoggle) 2015-08-28  
@@ -425,6 +422,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Vim Cheat Sheet - 简体汉语 2016-03-15  
 &emsp;&emsp;&emsp;&emsp;Indenting source code of vim 2016-07-29  
 &emsp;&emsp;&emsp;&emsp;VIM and Python - a match made in heaven - Real Python 2016-08-10  
+&emsp;&emsp;&emsp;&emsp;vim的复制粘贴(包括系统剪贴板) 2015-08-28  
 &emsp;&emsp;IDEA  
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA 常用设置讲解1 2016-05-18  
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA Hello World 项目创建与项目配置文件 2016-05-18  
@@ -434,3 +432,5 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;PyCharm配置SFTP远程调试Django应用 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;PyCharm 使用技巧 2016-04-10  
 &emsp;&emsp;&emsp;&emsp;PyCharm as the Ultimate Python Debugger 2016-08-18  
+&emsp;&emsp;other  
+&emsp;&emsp;&emsp;&emsp;[09.25] Sublime Text 2.x, 3.x Universal License Keys collection 2017-02-05  
