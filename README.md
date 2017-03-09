@@ -12,11 +12,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;当日  
 &emsp;&emsp;近期  
 &emsp;&emsp;长远  
-&emsp;&emsp;&emsp;&emsp;Type Hinting in PyCharm 2016-07-23  
-&emsp;&emsp;&emsp;&emsp;PEP 484 -- Type Hints 2016-07-23  
-&emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
 &emsp;&emsp;待评估  
-&emsp;&emsp;&emsp;&emsp;Maven的安装、配置及使用入门 2016-07-04  
 - 其它  
 &emsp;&emsp;人文关怀  
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
@@ -27,11 +23,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;胡雪岩魂归何处 2016-05-29  
 &emsp;&emsp;&emsp;&emsp;卢志丹 -- 青年毛泽东评王安石变法失败的原因 2016-05-29  
 &emsp;&emsp;&emsp;&emsp;Graceful English sentence,I think 2016-07-28  
-&emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;长者段子 2016-09-30  
 &emsp;&emsp;&emsp;&emsp;曾国藩的人格缺陷：缺怜悯的残忍儒生 2016-12-24  
 &emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
 &emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
+&emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -95,6 +91,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;xxx私有云之总体规划及工作计划 2016-07-20  
 &emsp;&emsp;&emsp;&emsp;xxx私有云之Docker 2016-08-02  
 &emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
+&emsp;&emsp;&emsp;&emsp;Choosing an SSO Strategy: SAML vs OAuth2 2017-02-24  
+&emsp;&emsp;&emsp;&emsp;我眼中的SAML (Security Assertion Markup Language) 2017-03-09  
 - 程序语言  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
@@ -192,6 +190,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
 &emsp;&emsp;&emsp;&emsp;python模块及包的导入 2016-04-04  
 &emsp;&emsp;&emsp;&emsp;python 字符编码与解码——unicode、str和中文 2016-05-03  
+&emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -243,16 +242,23 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 - 自然语言  
-&emsp;&emsp;英语  
+&emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
 &emsp;&emsp;&emsp;&emsp;Negative prefixes 2016-07-31  
 &emsp;&emsp;&emsp;&emsp;各种符号用英语怎么说 2016-11-13  
 &emsp;&emsp;&emsp;&emsp;excited vs exciting - Common Mistakes and Confusing Words in English 2016-11-09  
 &emsp;&emsp;&emsp;&emsp;also, too, either, as well的区别 2017-01-02  
 &emsp;&emsp;&emsp;&emsp;「對不起」到底是sorry, excuse me, 還是pardon呢？一次讓你搞懂怎麼用英文道歉！ 2017-01-07  
+&emsp;&emsp;&emsp;&emsp;“音形意统一记忆法”学习思路_英语单词完美记忆 2017-02-27  
+&emsp;&emsp;&emsp;&emsp;“音形意统一记忆法”学习思路 2017-03-09  
+&emsp;&emsp;&emsp;&emsp;说说“词根记忆法”脑回路 2017-03-09  
+&emsp;&emsp;&emsp;&emsp;英语单词音形意统一记忆 介绍 2017-03-09  
 &emsp;&emsp;汉语  
-&emsp;&emsp;法语  
+&emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
+&emsp;&emsp;French  
 &emsp;&emsp;&emsp;&emsp;在法国，转角遇到法式英语 2017-02-03  
+&emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
+&emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
 - 操作系统  
 &emsp;&emsp;Mac OS  
 &emsp;&emsp;&emsp;&emsp;Mac 光标按照单词移动 2016-03-18  
