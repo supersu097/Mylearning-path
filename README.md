@@ -256,7 +256,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;汉语  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
 &emsp;&emsp;French  
-&emsp;&emsp;&emsp;&emsp;在法国，转角遇到法式英语 2017-02-03  
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 &emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
 - 操作系统  
@@ -438,5 +437,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;PyCharm配置SFTP远程调试Django应用 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;PyCharm 使用技巧 2016-04-10  
 &emsp;&emsp;&emsp;&emsp;PyCharm as the Ultimate Python Debugger 2016-08-18  
+&emsp;&emsp;&emsp;&emsp;PyCharm2016.3专业版注册码 2017-03-21  
 &emsp;&emsp;other  
 &emsp;&emsp;&emsp;&emsp;[09.25] Sublime Text 2.x, 3.x Universal License Keys collection 2017-02-05  
