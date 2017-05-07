@@ -28,6 +28,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;铂程斋--长者究竟掌握了几门外语？ 2016-09-30  
 &emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
+&emsp;&emsp;&emsp;&emsp;《银河护卫队2》：非常浪漫的“流氓美学 2017-05-08  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -57,6 +58,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;王垠：赞那啥思考 2016-06-26  
 &emsp;&emsp;&emsp;&emsp;如何掌握程序语言 2016-12-29  
 &emsp;&emsp;&emsp;&emsp;从工具的奴隶到工具的主人 2016-12-29  
+&emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-04-29  
+&emsp;&emsp;&emsp;&emsp;美国公司管理层的洗脑技巧 2017-04-29  
+&emsp;&emsp;&emsp;&emsp;为什么我的代码进入闭源状态 2017-04-29  
+&emsp;&emsp;&emsp;&emsp;经验和洞察力 2017-04-29  
 &emsp;&emsp;程序人生  
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;如何看待 Max Howell 被 Google 拒绝 2016-06-05  
@@ -253,6 +258,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;“音形意统一记忆法”学习思路 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;说说“词根记忆法”脑回路 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;英语单词音形意统一记忆 介绍 2017-03-09  
+&emsp;&emsp;&emsp;&emsp;实用口语：“请客”或“AA制”英文如何表达 2017-05-04  
 &emsp;&emsp;汉语  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
 &emsp;&emsp;French  
