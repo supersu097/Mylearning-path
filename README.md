@@ -8,6 +8,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 # Overview
 
+- DataBase  
+&emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
+&emsp;&emsp;&emsp;&emsp;Changing host permissions for MySQL users 2017-06-01  
+&emsp;&emsp;&emsp;&emsp;MysqlPasswordReset 2017-06-01  
 - 待阅  
 &emsp;&emsp;当日  
 &emsp;&emsp;近期  
@@ -98,6 +103,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
 &emsp;&emsp;&emsp;&emsp;Choosing an SSO Strategy: SAML vs OAuth2 2017-02-24  
 &emsp;&emsp;&emsp;&emsp;我眼中的SAML (Security Assertion Markup Language) 2017-03-09  
+&emsp;&emsp;&emsp;&emsp;AWS in Plain English 2017-06-02  
+&emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
 - 程序语言  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
@@ -196,6 +203,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python模块及包的导入 2016-04-04  
 &emsp;&emsp;&emsp;&emsp;python 字符编码与解码——unicode、str和中文 2016-05-03  
 &emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
+&emsp;&emsp;&emsp;&emsp;浅谈cgi、wsgi、uwsgi 与 uWSGI 2017-05-17  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
@@ -259,11 +267,16 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;说说“词根记忆法”脑回路 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;英语单词音形意统一记忆 介绍 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;实用口语：“请客”或“AA制”英文如何表达 2017-05-04  
+&emsp;&emsp;&emsp;&emsp;一张图看懂英语的16个时态_沪江英语学习网 2017-05-31  
+&emsp;&emsp;&emsp;&emsp;16张图看懂英语16大时态，全面好懂！ 2017-05-31  
 &emsp;&emsp;汉语  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
+&emsp;&emsp;&emsp;&emsp;汉语真的全世界最难学吗 -百家号 2017-05-29  
 &emsp;&emsp;French  
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 &emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
+&emsp;&emsp;&emsp;&emsp;法国教育部最认可的法语能力证明 2017-05-30  
+&emsp;&emsp;&emsp;&emsp;French BG&Learning 2017-05-30  
 - 操作系统  
 &emsp;&emsp;Mac OS  
 &emsp;&emsp;&emsp;&emsp;Mac 光标按照单词移动 2016-03-18  
@@ -411,6 +424,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;4 CCleaner Alternatives For Ubuntu Linux 2016-12-13  
 &emsp;&emsp;&emsp;&emsp;Pipe to "xargs rm" : filename with spaces 2016-12-16  
 &emsp;&emsp;&emsp;&emsp;使用 Vagrant 打造跨平台开发环境 2017-01-22  
+&emsp;&emsp;&emsp;&emsp;sed in-place editing (-i) difference on Mac OS X: “undefined label” errors 2017-06-01  
+&emsp;&emsp;&emsp;&emsp;Linux下有趣的终端命令或者工具 2017-06-08  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
@@ -425,6 +440,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Difference between “git add -A” and “git add .” 2016-07-25  
 &emsp;&emsp;&emsp;&emsp;Upgrading to the last version of Git from the source repository or PPA 2016-08-08  
 &emsp;&emsp;&emsp;&emsp;Markdown 语言中的空格问题 2016-09-23  
+&emsp;&emsp;&emsp;&emsp;Advanced Git concepts; the upstream tracking branch 2017-05-22  
 &emsp;&emsp;Vim  
 &emsp;&emsp;&emsp;&emsp;简明 Vim 练级攻略 2015-08-27  
 &emsp;&emsp;&emsp;&emsp;vim配置 2015-08-22  
