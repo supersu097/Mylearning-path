@@ -269,6 +269,28 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;实用口语：“请客”或“AA制”英文如何表达 2017-05-04  
 &emsp;&emsp;&emsp;&emsp;一张图看懂英语的16个时态_沪江英语学习网 2017-05-31  
 &emsp;&emsp;&emsp;&emsp;16张图看懂英语16大时态，全面好懂！ 2017-05-31  
+&emsp;&emsp;&emsp;&emsp;辞书推荐  你难道还在用有道吗？ 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;典评：朗文当代高级英语辞典（英英·英汉双解）（第5版）[1] 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;你挺牛津还是朗文？ 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;英语词汇历史分析与词汇记忆方法 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;词汇量如何迅速提升至两到三万 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;1.6G Mdict词库的补充 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;朗文词典与牛津词典评述 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;原来你是这样的朗文词典 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;主流ESL学习型词典的不同之处 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;Mdict词典10合1英英合集 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;几种朗文英语词典的不同之处 2017-06-22  
+&emsp;&emsp;&emsp;&emsp;Longman朗文当代高级电脑词典(5th)功能详解 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;中国孩子这样学英语更有效（原则）_神童英语_新浪博客 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;6款权威真人发声电脑英语词典大对比_神童英语_新浪博客 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;中国孩子这样学英语更有效（序） 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;美国小学生学什么英文字体？_神童英语_新浪博客 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;美国家喻户晓的Dr. Seuss儿童作品_神童英语_新浪博客 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;美国小学生学什么英文字体？ 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;美国家喻户晓的Dr. Seuss儿童作品 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;强烈推荐一本美国小学生常用的英-英词典 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;“裸考”过上海少儿星级英语考试_神童英语_新浪博客 2017-06-25  
+&emsp;&emsp;&emsp;&emsp;朗文双解词典知多少 2017-06-22  
 &emsp;&emsp;汉语  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
 &emsp;&emsp;&emsp;&emsp;汉语真的全世界最难学吗 -百家号 2017-05-29  
@@ -276,7 +298,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 &emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
 &emsp;&emsp;&emsp;&emsp;法国教育部最认可的法语能力证明 2017-05-30  
-&emsp;&emsp;&emsp;&emsp;French BG&Learning 2017-05-30  
+&emsp;&emsp;&emsp;&emsp;French Learning 2017-05-30  
 - 操作系统  
 &emsp;&emsp;Mac OS  
 &emsp;&emsp;&emsp;&emsp;Mac 光标按照单词移动 2016-03-18  
