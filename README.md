@@ -157,6 +157,13 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;使用 Vagrant 打造跨平台开发环境 2017-01-22  
 &emsp;&emsp;&emsp;&emsp;sed in-place editing (-i) difference on Mac OS X: “undefined label” errors 2017-06-01  
 &emsp;&emsp;&emsp;&emsp;Linux下有趣的终端命令或者工具 2017-06-08  
+&emsp;&emsp;&emsp;&emsp;10 Awesome Indicator Applets for Ubuntu’s Unity Desktop 2017-07-04  
+&emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 标题栏实时显示上下行网速、CPU及内存使用率 2017-07-04  
+&emsp;&emsp;&emsp;&emsp;Install Systemback in Ubuntu 2017-07-04  
+&emsp;&emsp;&emsp;&emsp;打造完美的 Ubuntu16.04 开发环境 2017-07-09  
+&emsp;&emsp;Windows  
+&emsp;&emsp;&emsp;&emsp;Win下必备神器之Cmder 2017-07-09  
+&emsp;&emsp;&emsp;&emsp;Win10创意者更新正式版之创意，原来如此 2017-07-09  
 - DataBase  
 &emsp;&emsp;MySQL  
 &emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
@@ -187,6 +194,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;段子收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;《银河护卫队2》：非常浪漫的“流氓美学 2017-05-08  
+&emsp;&emsp;&emsp;&emsp;李约瑟本人是怎么回答李约瑟难题的？ 2017-07-16  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -220,6 +228,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;美国公司管理层的洗脑技巧 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;为什么我的代码进入闭源状态 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;经验和洞察力 2017-04-29  
+&emsp;&emsp;&emsp;&emsp;王垠:漫谈 Linux,Windows 和 Mac 2017-07-10  
 &emsp;&emsp;程序人生  
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;如何看待 Max Howell 被 Google 拒绝 2016-06-05  
@@ -297,15 +306,16 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;朗文双解词典知多少 2017-06-22  
 &emsp;&emsp;&emsp;&emsp;学好英语需要多少词汇量？4000词汇量是分水岭！ 2017-06-25  
 &emsp;&emsp;&emsp;&emsp;The Longman Defining Vocabulary 2017-06-27  
+&emsp;&emsp;&emsp;&emsp;Number of English Vocabulary Words to Speak English Fluently 2017-06-27  
 &emsp;&emsp;汉语  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
 &emsp;&emsp;&emsp;&emsp;汉语真的全世界最难学吗 -百家号 2017-05-29  
+&emsp;&emsp;&emsp;&emsp;汉字表意性与英文表音性对比 2017-07-04  
 &emsp;&emsp;French  
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 &emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
 &emsp;&emsp;&emsp;&emsp;法国教育部最认可的法语能力证明 2017-05-30  
 &emsp;&emsp;&emsp;&emsp;French Learning 2017-05-30  
-&emsp;&emsp;&emsp;&emsp;Number of English Vocabulary Words to Speak English Fluently 2017-06-27  
 - 工具  
 &emsp;&emsp;Git  
 &emsp;&emsp;&emsp;&emsp;Git 教學(1) : Git 的基本使用 2015-09-18  
@@ -342,6 +352,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;PyCharm2016.3专业版注册码 2017-03-21  
 &emsp;&emsp;other  
 &emsp;&emsp;&emsp;&emsp;[09.25] Sublime Text 2.x, 3.x Universal License Keys collection 2017-02-05  
+&emsp;&emsp;&emsp;&emsp;扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品 2017-07-13  
 - Programming Language  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
