@@ -1,9 +1,9 @@
 
 # Mylearning-road
-A list of all my notes below in Evernote to show my learning road map
-and some other in the past.
+My learning road map which recorded in Evernote to show what I was experiencing  
+and what I'm focusing on recently.
 
-# Credit
+# Implementation reference
 http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 # Overview
