@@ -1,9 +1,9 @@
 
 # Mylearning-road
-My learning road map which recorded in Evernote to show what I was experiencing  
-and what I'm focusing on recently.
+A list of all my notes below in Evernote to show my currently learning road map
+and some other in the past.
 
-# Implementation reference
+# Credit
 http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 # Overview
@@ -161,9 +161,14 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 标题栏实时显示上下行网速、CPU及内存使用率 2017-07-04  
 &emsp;&emsp;&emsp;&emsp;Install Systemback in Ubuntu 2017-07-04  
 &emsp;&emsp;&emsp;&emsp;打造完美的 Ubuntu16.04 开发环境 2017-07-09  
+&emsp;&emsp;&emsp;&emsp;linux kill命令参数及用法详解 2017-07-27  
+&emsp;&emsp;&emsp;&emsp;What Does “Everything Is a File” Mean in Linux? 2017-07-29  
 &emsp;&emsp;Windows  
 &emsp;&emsp;&emsp;&emsp;Win下必备神器之Cmder 2017-07-09  
 &emsp;&emsp;&emsp;&emsp;Win10创意者更新正式版之创意，原来如此 2017-07-09  
+&emsp;&emsp;OpenWrt  
+&emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
+&emsp;&emsp;&emsp;&emsp;OpenWrt路由器无线中继、桥接、信号放大、访客网络的实现方案 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
 &emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
@@ -195,6 +200,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;佳句收集 2016-05-09  
 &emsp;&emsp;&emsp;&emsp;《银河护卫队2》：非常浪漫的“流氓美学 2017-05-08  
 &emsp;&emsp;&emsp;&emsp;李约瑟本人是怎么回答李约瑟难题的？ 2017-07-16  
+&emsp;&emsp;&emsp;&emsp;卢靖姗：主演《战狼2》是妈妈的遗愿 | 新京报专访 2017-08-03  
+&emsp;&emsp;&emsp;&emsp;从“黑天鹅”事件中我们学到了什么？ 2017-08-07  
+&emsp;&emsp;&emsp;&emsp;情怀多少钱？回顾这些消亡之后又重返中国市场的品牌 2017-08-07  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;给Java说句公道话 2016-04-13  
@@ -267,6 +275,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;我眼中的SAML (Security Assertion Markup Language) 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;AWS in Plain English 2017-06-02  
 &emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
+&emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
+&emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  

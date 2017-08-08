@@ -40,7 +40,7 @@ def main():
     with open('README.md', 'w') as r:
         r.write("""
 # Mylearning-road
-A list of all my notes below in Evernote to show my learning road map
+A list of all my notes below in Evernote to show my currently learning road map
 and some other in the past.
 
 # Credit
