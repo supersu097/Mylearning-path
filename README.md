@@ -169,6 +169,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;OpenWrt  
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 &emsp;&emsp;&emsp;&emsp;OpenWrt路由器无线中继、桥接、信号放大、访客网络的实现方案 2017-08-09  
+&emsp;&emsp;&emsp;&emsp;OPKG 软件包管理 2017-08-10  
 - DataBase  
 &emsp;&emsp;MySQL  
 &emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
@@ -183,6 +184,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Basic Data Structure  
 &emsp;&emsp;&emsp;&emsp;完美二叉树, 完全二叉树和完满二叉树 - veli - 博客园 2017-07-02  
 &emsp;&emsp;&emsp;&emsp;python数据结构-链表 2017-06-28  
+- BlockChain  
+&emsp;&emsp;Social Medium  
+&emsp;&emsp;Coins  
+&emsp;&emsp;&emsp;&emsp;除了比特币，今年翻了20倍的狗狗币你了解吗？ 2017-08-10  
 - 其它  
 &emsp;&emsp;人文关怀  
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
