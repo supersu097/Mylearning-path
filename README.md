@@ -282,6 +282,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
 &emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
 &emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
+&emsp;&emsp;睡眠  
+&emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
+&emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
@@ -291,7 +294,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;also, too, either, as well的区别 2017-01-02  
 &emsp;&emsp;&emsp;&emsp;「對不起」到底是sorry, excuse me, 還是pardon呢？一次讓你搞懂怎麼用英文道歉！ 2017-01-07  
 &emsp;&emsp;&emsp;&emsp;“音形意统一记忆法”学习思路_英语单词完美记忆 2017-02-27  
-&emsp;&emsp;&emsp;&emsp;“音形意统一记忆法”学习思路 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;说说“词根记忆法”脑回路 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;英语单词音形意统一记忆 介绍 2017-03-09  
 &emsp;&emsp;&emsp;&emsp;实用口语：“请客”或“AA制”英文如何表达 2017-05-04  
