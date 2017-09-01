@@ -377,6 +377,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;other  
 &emsp;&emsp;&emsp;&emsp;[09.25] Sublime Text 2.x, 3.x Universal License Keys collection 2017-02-05  
 &emsp;&emsp;&emsp;&emsp;扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品 2017-07-13  
+&emsp;&emsp;&emsp;&emsp;shadowsocks自定义代理规则user-rule设置方法 2017-08-28  
 - Programming Language  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;Makefile 使用总结 2015-07-21  
