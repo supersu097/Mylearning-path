@@ -243,6 +243,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;为什么我的代码进入闭源状态 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;经验和洞察力 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;王垠:漫谈 Linux,Windows 和 Mac 2017-07-10  
+&emsp;&emsp;&emsp;&emsp;Python中为什么推荐使用isinstance来进行类型判断？而不是type 2017-09-04  
 &emsp;&emsp;程序人生  
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;如何看待 Max Howell 被 Google 拒绝 2016-06-05  
@@ -261,6 +262,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
 &emsp;&emsp;&emsp;&emsp;为什么说软件外包公司没前途 2017-08-17  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
+&emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
@@ -292,6 +294,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;Web Crawler  
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
+&emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
@@ -478,6 +481,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
 &emsp;&emsp;&emsp;&emsp;浅谈cgi、wsgi、uwsgi 与 uWSGI 2017-05-17  
 &emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
+&emsp;&emsp;&emsp;&emsp;读写JSON数据 — python3-cookbook 2017-09-01  
+&emsp;&emsp;&emsp;&emsp;How to "test" NoneType in python? 2017-09-04  
 &emsp;&emsp;Java  
 &emsp;&emsp;&emsp;&emsp;Google Java编程风格指南 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;Java入门记(一)：折腾HelloWorld 2016-04-08  
