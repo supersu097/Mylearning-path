@@ -263,6 +263,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;为什么说软件外包公司没前途 2017-08-17  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
+&emsp;&emsp;&emsp;&emsp;test 2017-09-04  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
