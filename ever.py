@@ -2,6 +2,7 @@
 # coding=utf-8
 # Created by sharp.gan at 2016-09-17
 
+import subprocess
 import config
 import time
 from evernote.api.client import EvernoteClient
@@ -60,6 +61,12 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
                         print >> r, '&emsp;&emsp;&emsp;&emsp;' + \
                             _.title, time_convert(_.created) + '  '
 
+def git():
+    if 'clean' not in subprocess.check_output('git status',shell=True):
+        os.system('git add .')
+        os.system("git commit -m 'weekly auto update'")
+        os.system('git push origin master')
 
 if __name__ == '__main__':
     main()
+    git()	
