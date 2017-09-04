@@ -5,6 +5,7 @@
 import subprocess
 import config
 import time
+import os
 from evernote.api.client import EvernoteClient
 from evernote.edam.notestore.ttypes import NoteFilter, NotesMetadataResultSpec
 
