@@ -68,7 +68,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 def git():
     if 'clean' not in subprocess.check_output('git status',shell=True):
         os.system('git add .')
-        os.system("git commit -m 'weekly auto update' {}".format(date_getter()))
+        os.system("git commit -m 'weekly auto update {}'".format(date_getter()))
         os.system('git push origin master')
 
 if __name__ == '__main__':
