@@ -298,6 +298,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
+&emsp;&emsp;Freelance Life  
+&emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;Number of English Vocabulary Words to Speak English Fluently 2017-06-27  
