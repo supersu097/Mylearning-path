@@ -25,6 +25,9 @@ def notes_list_requests(notebookGuid, noteStore):
                                               result_spec)
     return result_list
 
+def date_getter():                                                                                                                       
+    return time.strftime("%m-%d", time.localtime())
+
 
 def time_convert(timestamp):
     time_cleared = int(str(timestamp)[0:-3])
@@ -65,7 +68,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 def git():
     if 'clean' not in subprocess.check_output('git status',shell=True):
         os.system('git add .')
-        os.system("git commit -m 'weekly auto update'")
+        os.system("git commit -m 'weekly auto update' {}".format(date_getter()))
         os.system('git push origin master')
 
 if __name__ == '__main__':
