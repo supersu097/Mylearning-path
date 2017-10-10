@@ -72,6 +72,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;VMware 静态IP地址设置-本地电脑设置 2017-09-26  
+&emsp;&emsp;&emsp;&emsp;【Linux】VMware虚拟机中如何配置静态IP 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;How do you set the timezone for crontab? 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;What Does “Everything Is a File” Mean in Linux? 2017-07-29  
 &emsp;&emsp;&emsp;&emsp;linux kill命令参数及用法详解 2017-07-27  
@@ -174,6 +176,14 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 - 瀚海星空 - 周海汉博客 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;使用PyMySQL 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;使用PyMySQL处理大结果集的方法 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;mysql合理配置连接池数量 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;Python操作MySQL的方式 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;MySQL事务commit自动提交 2017-10-10  
+&emsp;&emsp;&emsp;&emsp;Python3 MySQL 数据库连接 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
 &emsp;&emsp;&emsp;&emsp;Changing host permissions for MySQL users 2017-06-01  
 &emsp;&emsp;&emsp;&emsp;MysqlPasswordReset 2017-06-01  
@@ -295,6 +305,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
 &emsp;&emsp;Web Crawler  
+&emsp;&emsp;&emsp;&emsp;基于Redis的三种分布式爬虫策略 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;Set phantomjs user-agent string (Example) 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
@@ -430,9 +441,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
 &emsp;&emsp;&emsp;&emsp;How to "test" NoneType in python? 2017-09-04  
 &emsp;&emsp;&emsp;&emsp;读写JSON数据 — python3-cookbook 2017-09-01  
-&emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
 &emsp;&emsp;&emsp;&emsp;浅谈cgi、wsgi、uwsgi 与 uWSGI 2017-05-17  
 &emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
 &emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
