@@ -72,6 +72,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;How to increase SSH Connection timeout? 2017-10-14  
+&emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
 &emsp;&emsp;&emsp;&emsp;VMware 静态IP地址设置-本地电脑设置 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;【Linux】VMware虚拟机中如何配置静态IP 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;How do you set the timezone for crontab? 2017-09-05  
@@ -137,7 +139,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;访问没有外网ip的NAS服务器的解决办法 2015-09-07  
 &emsp;&emsp;&emsp;&emsp;How To Set Up SSH Tunneling on a VPS 2015-09-06  
 &emsp;&emsp;&emsp;&emsp;nat123软件linux2.8及以上版本的安装启动教程 2015-08-29  
-&emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
 &emsp;&emsp;&emsp;&emsp;OpenSSH普通用户无法登录的几种情况的解决方法 - 胡振伟博客 2015-09-02  
 &emsp;&emsp;&emsp;&emsp;让ubuntu 终端显示英文提示，而桌面环境显示中文的方法 2015-09-02  
 &emsp;&emsp;&emsp;&emsp;Linux touch 命令-为什么我们需要改变时间戳？ 2015-09-01  
@@ -176,6 +177,13 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;MySQL长事务导致的Table Metadata Lock 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;MySQL多实例配置(一) 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;MySQL General Logging. How to enable general logging for MySQL Server on Windows. 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;How to Enable MySQL logging? 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;让MySQL支持中文 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;MySQL存储引擎中的MyISAM和InnoDB区别详解 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 - 瀚海星空 - 周海汉博客 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL 2017-10-10  
@@ -391,6 +399,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA For Mac 快捷键 2016-05-18  
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA 常用设置讲解1 2016-05-18  
 &emsp;&emsp;Pycharm  
+&emsp;&emsp;&emsp;&emsp;How to Find Things in DataGrip 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;PyCharm2016.3专业版注册码 2017-03-21  
 &emsp;&emsp;&emsp;&emsp;PyCharm as the Ultimate Python Debugger 2016-08-18  
 &emsp;&emsp;&emsp;&emsp;PyCharm配置SFTP远程调试Django应用 2016-06-15  
@@ -441,6 +450,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;PyFormat: Using % and .format() for great good! 2017-10-14  
+&emsp;&emsp;&emsp;&emsp;Python3 字符编码问题 2017-10-11  
 &emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
 &emsp;&emsp;&emsp;&emsp;How to "test" NoneType in python? 2017-09-04  
 &emsp;&emsp;&emsp;&emsp;读写JSON数据 — python3-cookbook 2017-09-01  
