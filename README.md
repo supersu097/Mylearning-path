@@ -72,6 +72,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;How to increase SSH Connection timeout? 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
 &emsp;&emsp;&emsp;&emsp;VMware 静态IP地址设置-本地电脑设置 2017-09-26  
@@ -177,11 +178,14 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;Avoiding auto-increment gaps in MySQL 2017-10-19  
+&emsp;&emsp;&emsp;&emsp;A demo of PyMySQL Insert NULL 2017-10-19  
+&emsp;&emsp;&emsp;&emsp;MySQL 导出数据 2017-10-18  
+&emsp;&emsp;&emsp;&emsp;让MySQL支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL长事务导致的Table Metadata Lock 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL多实例配置(一) 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL General Logging. How to enable general logging for MySQL Server on Windows. 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;How to Enable MySQL logging? 2017-10-13  
-&emsp;&emsp;&emsp;&emsp;让MySQL支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL存储引擎中的MyISAM和InnoDB区别详解 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
@@ -229,6 +233,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;幻想是最大的不自由 2015-06-13  
 &emsp;&emsp;垠神Blog  
+&emsp;&emsp;&emsp;&emsp;人体工学 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;Python中为什么推荐使用isinstance来进行类型判断？而不是type 2017-09-04  
 &emsp;&emsp;&emsp;&emsp;王垠:漫谈 Linux,Windows 和 Mac 2017-07-10  
 &emsp;&emsp;&emsp;&emsp;经验和洞察力 2017-04-29  
@@ -264,6 +269,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
+&emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
 &emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-09-14  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
