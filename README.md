@@ -72,6 +72,12 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;(记录)使用mint linux 17.2作为日常操作系统 2017-10-24  
+&emsp;&emsp;&emsp;&emsp;Setting CPU governor to on demand or conservative 2017-10-23  
+&emsp;&emsp;&emsp;&emsp;Fix the slow laptop after suspend issue on Ubuntu / Mint 2017-10-22  
+&emsp;&emsp;&emsp;&emsp;Solutions for 22 bugs in Ubuntu 16.04 and Linux Mint 18.2 2017-10-22  
+&emsp;&emsp;&emsp;&emsp;10 things to do first in Linux Mint 18.2 Cinnamon 2017-10-22  
+&emsp;&emsp;&emsp;&emsp;SSD: how to optimize your Solid State Drive for Linux Mint 18.x, Ubuntu 16.04 and Debian 2017-10-22  
 &emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;How to increase SSH Connection timeout? 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
@@ -189,7 +195,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL存储引擎中的MyISAM和InnoDB区别详解 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
-&emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 - 瀚海星空 - 周海汉博客 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL处理大结果集的方法 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;mysql合理配置连接池数量 2017-10-10  
@@ -456,6 +461,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;pip使用豆瓣的镜像源 2017-10-28  
 &emsp;&emsp;&emsp;&emsp;PyFormat: Using % and .format() for great good! 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;Python3 字符编码问题 2017-10-11  
 &emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
