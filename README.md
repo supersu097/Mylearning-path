@@ -72,6 +72,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;My SSH Config 2017-11-02  
 &emsp;&emsp;&emsp;&emsp;(记录)使用mint linux 17.2作为日常操作系统 2017-10-24  
 &emsp;&emsp;&emsp;&emsp;Setting CPU governor to on demand or conservative 2017-10-23  
 &emsp;&emsp;&emsp;&emsp;Fix the slow laptop after suspend issue on Ubuntu / Mint 2017-10-22  
@@ -184,6 +185,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;MySQL 数据类型 | 菜鸟教程 2017-10-31  
+&emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
+&emsp;&emsp;&emsp;&emsp;SQL MS Access、MySQL 和 SQL Server 数据类型 2017-10-30  
 &emsp;&emsp;&emsp;&emsp;Avoiding auto-increment gaps in MySQL 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;A demo of PyMySQL Insert NULL 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;MySQL 导出数据 2017-10-18  
@@ -239,7 +243,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;幻想是最大的不自由 2015-06-13  
 &emsp;&emsp;垠神Blog  
 &emsp;&emsp;&emsp;&emsp;人体工学 2017-10-19  
-&emsp;&emsp;&emsp;&emsp;Python中为什么推荐使用isinstance来进行类型判断？而不是type 2017-09-04  
+&emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-09-14  
 &emsp;&emsp;&emsp;&emsp;王垠:漫谈 Linux,Windows 和 Mac 2017-07-10  
 &emsp;&emsp;&emsp;&emsp;经验和洞察力 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;为什么我的代码进入闭源状态 2017-04-29  
@@ -275,7 +279,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
-&emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-09-14  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
 &emsp;&emsp;&emsp;&emsp;为什么说软件外包公司没前途 2017-08-17  
@@ -466,6 +469,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Python3 字符编码问题 2017-10-11  
 &emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
 &emsp;&emsp;&emsp;&emsp;How to "test" NoneType in python? 2017-09-04  
+&emsp;&emsp;&emsp;&emsp;Python中为什么推荐使用isinstance来进行类型判断？而不是type 2017-09-04  
 &emsp;&emsp;&emsp;&emsp;读写JSON数据 — python3-cookbook 2017-09-01  
 &emsp;&emsp;&emsp;&emsp;浅谈cgi、wsgi、uwsgi 与 uWSGI 2017-05-17  
 &emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
