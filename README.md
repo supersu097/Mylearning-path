@@ -72,6 +72,14 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Iptables Essentials: Common Firewall Rules and Commands 2017-11-09  
+&emsp;&emsp;&emsp;&emsp;Python远程部署利器Fabric详解 2017-11-08  
+&emsp;&emsp;&emsp;&emsp;在centos7上使用systemd启动supervisor 2017-11-08  
+&emsp;&emsp;&emsp;&emsp;python supervisor使用 2017-11-08  
+&emsp;&emsp;&emsp;&emsp;What is ::: in the Local Address of netstat output? 2017-11-07  
+&emsp;&emsp;&emsp;&emsp;系统运维|3 个简单、优秀的 Linux 网络监视器 2017-11-07  
+&emsp;&emsp;&emsp;&emsp;3 Ways to List All Installed Packages in RHEL, CentOS and Fedora 2017-11-06  
+&emsp;&emsp;&emsp;&emsp;How to Find Out List of All Open Ports in Linux 2017-11-06  
 &emsp;&emsp;&emsp;&emsp;My SSH Config 2017-11-02  
 &emsp;&emsp;&emsp;&emsp;(记录)使用mint linux 17.2作为日常操作系统 2017-10-24  
 &emsp;&emsp;&emsp;&emsp;Setting CPU governor to on demand or conservative 2017-10-23  
@@ -185,6 +193,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;MySQL  
+&emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
+&emsp;&emsp;&emsp;&emsp;SQLite学习手册(数据类型) 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;MySQL 数据类型 | 菜鸟教程 2017-10-31  
 &emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
 &emsp;&emsp;&emsp;&emsp;SQL MS Access、MySQL 和 SQL Server 数据类型 2017-10-30  
@@ -196,7 +206,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;MySQL多实例配置(一) 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL General Logging. How to enable general logging for MySQL Server on Windows. 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;How to Enable MySQL logging? 2017-10-13  
-&emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL存储引擎中的MyISAM和InnoDB区别详解 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL 2017-10-10  
@@ -242,6 +251,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;幻想是最大的不自由 2015-06-13  
 &emsp;&emsp;垠神Blog  
+&emsp;&emsp;&emsp;&emsp;AlphaGo Zero 和强人工智能 2017-11-05  
 &emsp;&emsp;&emsp;&emsp;人体工学 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-09-14  
 &emsp;&emsp;&emsp;&emsp;王垠:漫谈 Linux,Windows 和 Mac 2017-07-10  
@@ -327,6 +337,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
 &emsp;&emsp;Web Crawler  
+&emsp;&emsp;&emsp;&emsp;三种 Python 网络内容抓取工具与爬虫 2017-11-07  
 &emsp;&emsp;&emsp;&emsp;基于Redis的三种分布式爬虫策略 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;Set phantomjs user-agent string (Example) 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2017-09-05  
@@ -384,6 +395,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 - 工具  
 &emsp;&emsp;Git  
+&emsp;&emsp;&emsp;&emsp;git 查看某个 commit 的改动 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;Changing a commit message - User Documentation 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Advanced Git concepts; the upstream tracking branch 2017-05-22  
 &emsp;&emsp;&emsp;&emsp;Markdown 语言中的空格问题 2016-09-23  
@@ -464,6 +476,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python: 捕获异常然后再抛出另一个异常的正确姿势 2017-11-10  
+&emsp;&emsp;&emsp;&emsp;Python: 如何在一个模块中执行另一个模块的 if __name__ == '__main__' 部分的代码 2017-11-08  
+&emsp;&emsp;&emsp;&emsp;去掉 unicode 字符串前面的 u 2017-11-08  
+&emsp;&emsp;&emsp;&emsp;将列表分组成包含多个子列表的列表 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;pip使用豆瓣的镜像源 2017-10-28  
 &emsp;&emsp;&emsp;&emsp;PyFormat: Using % and .format() for great good! 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;Python3 字符编码问题 2017-10-11  
