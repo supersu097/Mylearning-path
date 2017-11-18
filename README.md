@@ -308,6 +308,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
+&emsp;&emsp;&emsp;&emsp;How to Configure nginx 2017-11-14  
+&emsp;&emsp;&emsp;&emsp;How To Set Up a Node.js Application for Production on Ubuntu 16.04 2017-11-13  
 &emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
 &emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
 &emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
@@ -476,6 +478,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Is Python call-by-value or call-by-reference? Neither. 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;Python: 捕获异常然后再抛出另一个异常的正确姿势 2017-11-10  
 &emsp;&emsp;&emsp;&emsp;Python: 如何在一个模块中执行另一个模块的 if __name__ == '__main__' 部分的代码 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;去掉 unicode 字符串前面的 u 2017-11-08  
@@ -595,3 +598,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Debug  
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
+&emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
+&emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 安装 LEMP / LNMP 教程 2017-11-15  
+&emsp;&emsp;&emsp;&emsp;How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04 2017-11-15  
