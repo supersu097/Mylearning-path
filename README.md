@@ -72,13 +72,15 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;How do I grep recursively through .gz files? 2017-11-24  
+&emsp;&emsp;&emsp;&emsp;3 Ways to List All Installed Packages in RHEL, CentOS and Fedora 2017-11-06  
+&emsp;&emsp;&emsp;&emsp;Automatic mount of second drive in Ubuntu 2017-11-19  
 &emsp;&emsp;&emsp;&emsp;Iptables Essentials: Common Firewall Rules and Commands 2017-11-09  
 &emsp;&emsp;&emsp;&emsp;Python远程部署利器Fabric详解 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;在centos7上使用systemd启动supervisor 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;python supervisor使用 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;What is ::: in the Local Address of netstat output? 2017-11-07  
 &emsp;&emsp;&emsp;&emsp;系统运维|3 个简单、优秀的 Linux 网络监视器 2017-11-07  
-&emsp;&emsp;&emsp;&emsp;3 Ways to List All Installed Packages in RHEL, CentOS and Fedora 2017-11-06  
 &emsp;&emsp;&emsp;&emsp;How to Find Out List of All Open Ports in Linux 2017-11-06  
 &emsp;&emsp;&emsp;&emsp;My SSH Config 2017-11-02  
 &emsp;&emsp;&emsp;&emsp;(记录)使用mint linux 17.2作为日常操作系统 2017-10-24  
@@ -192,7 +194,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;OpenWrt路由器无线中继、桥接、信号放大、访客网络的实现方案 2017-08-09  
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
-&emsp;&emsp;MySQL  
+&emsp;&emsp;SQL  
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;SQLite学习手册(数据类型) 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;MySQL 数据类型 | 菜鸟教程 2017-10-31  
@@ -292,7 +294,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
 &emsp;&emsp;&emsp;&emsp;为什么说软件外包公司没前途 2017-08-17  
-&emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
 &emsp;&emsp;&emsp;&emsp;关于IT创业和反思 2017-08-15  
 &emsp;&emsp;&emsp;&emsp;我为什么喜欢编程？ - wolangjushi的专栏 - 博客频道 - CSDN.NET 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;中国互联网20年红利到顶，全面启动收割模式 2016-10-21  
@@ -308,6 +309,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
+&emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
+&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
+&emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;How to Configure nginx 2017-11-14  
 &emsp;&emsp;&emsp;&emsp;How To Set Up a Node.js Application for Production on Ubuntu 16.04 2017-11-13  
 &emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
@@ -345,6 +349,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
+&emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
 &emsp;&emsp;Freelance Life  
 &emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
 - 自然语言  
@@ -599,6 +604,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;php中traits学习笔记 2017-11-21  
+&emsp;&emsp;&emsp;&emsp;PHP 5.4中的traits初探 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 安装 LEMP / LNMP 教程 2017-11-15  
 &emsp;&emsp;&emsp;&emsp;How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04 2017-11-15  
