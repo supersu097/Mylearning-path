@@ -72,9 +72,24 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;How to Disable SELinux Temporarily or Permanently in RHEL/CentOS 7/6 2017-12-01  
+&emsp;&emsp;&emsp;&emsp;How to disable fast mirror yum plugin in CentOS Linux server 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;How to update Red Hat Enterprise Linux (RHEL) or CentOS without changing minor versions 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;Is it possible to limit yum so that it lists or installs only security updates? 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;Avoid CentOS 7 upgrade via yum? 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;Setting Time and Date in Red Hat 7 / CentOS 7 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;How to Start/Stop and Enable/Disable FirewallD and Iptables Firewall in Linux 2017-11-30  
+&emsp;&emsp;&emsp;&emsp;Linux Troubleshooting: How To Fix 'lsb_release' Command Not Found In CentOS? 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;Centos 7 学习之静态IP设置 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;国内yum源的安装(163，阿里云，epel) 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;RHEL/CentOS可用的第三方软件库详解 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;CentOS 7 网络配置详解 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;How do I grep recursively through .gz files? 2017-11-24  
+&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
 &emsp;&emsp;&emsp;&emsp;3 Ways to List All Installed Packages in RHEL, CentOS and Fedora 2017-11-06  
 &emsp;&emsp;&emsp;&emsp;Automatic mount of second drive in Ubuntu 2017-11-19  
+&emsp;&emsp;&emsp;&emsp;How to Configure nginx 2017-11-14  
+&emsp;&emsp;&emsp;&emsp;How To Set Up a Node.js Application for Production on Ubuntu 16.04 2017-11-13  
 &emsp;&emsp;&emsp;&emsp;Iptables Essentials: Common Firewall Rules and Commands 2017-11-09  
 &emsp;&emsp;&emsp;&emsp;Python远程部署利器Fabric详解 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;在centos7上使用systemd启动supervisor 2017-11-08  
@@ -122,7 +137,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Linux大文件分割split和合并cat使用方法 2016-06-19  
 &emsp;&emsp;&emsp;&emsp;ubuntu永久修改主机名 2016-06-13  
 &emsp;&emsp;&emsp;&emsp;Linux命令：sudo 2016-05-28  
-&emsp;&emsp;&emsp;&emsp;在CentOS上安装并配置Supervisor 2016-03-21  
 &emsp;&emsp;&emsp;&emsp;Centos 6 上安装easy_install 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;VMWaer克隆centos后网络的问题解决 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;Sublime插件：主题篇 2016-03-19  
@@ -290,6 +304,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
+&emsp;&emsp;&emsp;&emsp;Worked Centos network config 4 under a sub-route localnet 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
@@ -310,10 +325,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
-&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
 &emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
-&emsp;&emsp;&emsp;&emsp;How to Configure nginx 2017-11-14  
-&emsp;&emsp;&emsp;&emsp;How To Set Up a Node.js Application for Production on Ubuntu 16.04 2017-11-13  
 &emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
 &emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
 &emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
@@ -354,6 +366,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
 - 自然语言  
 &emsp;&emsp;English  
+&emsp;&emsp;&emsp;&emsp;Look after 和 take care of 有区别吗？ 2017-11-26  
 &emsp;&emsp;&emsp;&emsp;Number of English Vocabulary Words to Speak English Fluently 2017-06-27  
 &emsp;&emsp;&emsp;&emsp;The Longman Defining Vocabulary 2017-06-27  
 &emsp;&emsp;&emsp;&emsp;学好英语需要多少词汇量？4000词汇量是分水岭！ 2017-06-25  
