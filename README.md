@@ -72,6 +72,17 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux 2017-12-09  
+&emsp;&emsp;&emsp;&emsp;CentOS7使用NTP进行时间同步 2017-12-08  
+&emsp;&emsp;&emsp;&emsp;How to set up time zone on CentOS 7 2017-12-08  
+&emsp;&emsp;&emsp;&emsp;如何在 CentOS 中设置 NTP 服务器-博客-云栖社区-阿里云 2017-12-08  
+&emsp;&emsp;&emsp;&emsp;技术|如何判断 Linux 服务器是否被入侵？ 2017-12-07  
+&emsp;&emsp;&emsp;&emsp;How To Use Nmap to Scan for Open Ports on your VPS 2017-12-06  
+&emsp;&emsp;&emsp;&emsp;Linux: Force Users To Change Their Passwords Upon First Login 2017-12-05  
+&emsp;&emsp;&emsp;&emsp;How to Change Linux User’s Password in One Command Line 2017-12-05  
+&emsp;&emsp;&emsp;&emsp;How To Add and Delete Users on a CentOS 7 Server 2017-12-05  
+&emsp;&emsp;&emsp;&emsp;Disable Network-Manager in no-GUI CentOS 7 Server. 2017-12-04  
+&emsp;&emsp;&emsp;&emsp;系统运维|检查 Linux 系统上的网络连接 2017-12-03  
 &emsp;&emsp;&emsp;&emsp;How to Disable SELinux Temporarily or Permanently in RHEL/CentOS 7/6 2017-12-01  
 &emsp;&emsp;&emsp;&emsp;How to disable fast mirror yum plugin in CentOS Linux server 2017-11-30  
 &emsp;&emsp;&emsp;&emsp;How to update Red Hat Enterprise Linux (RHEL) or CentOS without changing minor versions 2017-11-30  
@@ -165,7 +176,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;使用openwrt路由器进行ssh自动翻墙 2015-09-25  
 &emsp;&emsp;&emsp;&emsp;Autossh反向连接 2015-09-18  
 &emsp;&emsp;&emsp;&emsp;用cURL实现HTTP操作 2015-09-16  
-&emsp;&emsp;&emsp;&emsp;lsyncd实时同步搭建指南——取代rsync+inotify | Sean's Notes 2015-09-10  
 &emsp;&emsp;&emsp;&emsp;Is there anyway to fix a "Secure Connection Failed" 2015-09-12  
 &emsp;&emsp;&emsp;&emsp;OpenVPN下载、安装、配置及使用详解 2015-09-08  
 &emsp;&emsp;&emsp;&emsp;访问没有外网ip的NAS服务器的解决办法 2015-09-07  
@@ -176,7 +186,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Linux touch 命令-为什么我们需要改变时间戳？ 2015-09-01  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 14.04 为 root 帐号开启 SSH 登录 2015-08-29  
 &emsp;&emsp;&emsp;&emsp;Ubuntu工具zsh和Byobu 2015-08-26  
-&emsp;&emsp;&emsp;&emsp;inotify+unison双向同步环境部署 2015-08-26  
 &emsp;&emsp;&emsp;&emsp;Rsync结合Inotify 实时同步配置（更新之前繁琐的传输认证) 2015-08-26  
 &emsp;&emsp;&emsp;&emsp;incrontab 2015-08-24  
 &emsp;&emsp;&emsp;&emsp;ubuntu14.04 numlock 开机自动打开方法 2015-08-25  
@@ -187,7 +196,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;fastboot出现错误:no permissions fastboot 2015-08-14  
 &emsp;&emsp;&emsp;&emsp;由Android的fastboot no permissions而引出的Linux特殊权限管理之：SUID、SGID、SBIT 2015-08-14  
 &emsp;&emsp;&emsp;&emsp;linux环境变量 2015-07-25  
-&emsp;&emsp;&emsp;&emsp;Rsync实现服务器间文件数据同步配置详解 2015-07-15  
 &emsp;&emsp;&emsp;&emsp;关于rsync的断点续传 2015-07-15  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 用vsftpd 配置FTP服务器 2015-07-13  
 &emsp;&emsp;&emsp;&emsp;从root用户切回user用户 2015-07-13  
@@ -304,7 +312,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
-&emsp;&emsp;&emsp;&emsp;Worked Centos network config 4 under a sub-route localnet 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;NTP时间状态检查命令和关闭本地RTC 2017-12-08  
+&emsp;&emsp;&emsp;&emsp;SVN (Subversion) Backup and Restore 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
@@ -324,6 +333,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
+&emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
 &emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
@@ -415,6 +425,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 - 工具  
 &emsp;&emsp;Git  
+&emsp;&emsp;&emsp;&emsp;Remove a commit on GitHub 2017-12-06  
 &emsp;&emsp;&emsp;&emsp;git 查看某个 commit 的改动 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;Changing a commit message - User Documentation 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Advanced Git concepts; the upstream tracking branch 2017-05-22  
@@ -451,6 +462,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;PyCharm配置SFTP远程调试Django应用 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;PyCharm 使用技巧 2016-04-10  
 &emsp;&emsp;other  
+&emsp;&emsp;&emsp;&emsp;Subversion Tutorial: 10 Most Used SVN Commands with Examples 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;如何移除 Chrome Android 新分頁災難性 2017-09-06  
 &emsp;&emsp;&emsp;&emsp;shadowsocks自定义代理规则user-rule设置方法 2017-08-28  
 &emsp;&emsp;&emsp;&emsp;扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品 2017-07-13  
