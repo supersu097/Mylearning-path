@@ -45,7 +45,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;比葫芦娃还可怕的百度全系APP SDK漏洞 - WormHole虫洞漏洞分析报告 2015-11-04  
 &emsp;&emsp;&emsp;&emsp;百度WormHole漏洞检测POC 2015-11-04  
 &emsp;&emsp;&emsp;&emsp;Android修改系统/应用签名 2015-09-19  
-&emsp;&emsp;&emsp;&emsp;Use Jenkins Automate Your ROM 2015-09-19  
 &emsp;&emsp;&emsp;&emsp;如何预置Android 手机 APK 2015-07-22  
 &emsp;&emsp;&emsp;&emsp;Invalid policyvers specified: 26解决方案 2015-09-09  
 &emsp;&emsp;&emsp;&emsp;搭建Repo服务器 2015-09-02  
@@ -72,6 +71,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Linux下的SVN服务器搭建 2017-12-13  
+&emsp;&emsp;&emsp;&emsp;How to Run 'sudo' Command Without Entering a Password in Linux 2017-12-12  
+&emsp;&emsp;&emsp;&emsp;otunnel文档 - 对称的安全隧道工具 2017-12-12  
+&emsp;&emsp;&emsp;&emsp;How To Install PPTP VPN on CentOS 7 2017-12-11  
+&emsp;&emsp;&emsp;&emsp;How to establish PPTP VPN client connection on CENTOS/RHEL 7 Linux 2017-12-11  
 &emsp;&emsp;&emsp;&emsp;Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux 2017-12-09  
 &emsp;&emsp;&emsp;&emsp;CentOS7使用NTP进行时间同步 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;How to set up time zone on CentOS 7 2017-12-08  
@@ -177,7 +181,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Autossh反向连接 2015-09-18  
 &emsp;&emsp;&emsp;&emsp;用cURL实现HTTP操作 2015-09-16  
 &emsp;&emsp;&emsp;&emsp;Is there anyway to fix a "Secure Connection Failed" 2015-09-12  
-&emsp;&emsp;&emsp;&emsp;OpenVPN下载、安装、配置及使用详解 2015-09-08  
 &emsp;&emsp;&emsp;&emsp;访问没有外网ip的NAS服务器的解决办法 2015-09-07  
 &emsp;&emsp;&emsp;&emsp;How To Set Up SSH Tunneling on a VPS 2015-09-06  
 &emsp;&emsp;&emsp;&emsp;nat123软件linux2.8及以上版本的安装启动教程 2015-08-29  
@@ -217,6 +220,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;SQL四种语言：DDL,DML,DCL,TCL 2017-12-15  
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;SQLite学习手册(数据类型) 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;MySQL 数据类型 | 菜鸟教程 2017-10-31  
