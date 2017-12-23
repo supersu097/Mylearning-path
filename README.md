@@ -71,6 +71,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;How To List and Delete Iptables Firewall Rules | DigitalOcean 2017-12-23  
+&emsp;&emsp;&emsp;&emsp;5 Tools to Take or Capture Desktop Screenshots in Ubuntu Linux 2017-12-19  
+&emsp;&emsp;&emsp;&emsp;Enabling the Nginx Directory Index Listing 2017-12-17  
 &emsp;&emsp;&emsp;&emsp;Linux下的SVN服务器搭建 2017-12-13  
 &emsp;&emsp;&emsp;&emsp;How to Run 'sudo' Command Without Entering a Password in Linux 2017-12-12  
 &emsp;&emsp;&emsp;&emsp;otunnel文档 - 对称的安全隧道工具 2017-12-12  
@@ -220,6 +223,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;mysql索引使用 2017-12-22  
 &emsp;&emsp;&emsp;&emsp;SQL四种语言：DDL,DML,DCL,TCL 2017-12-15  
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;SQLite学习手册(数据类型) 2017-11-08  
@@ -260,6 +264,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;除了比特币，今年翻了20倍的狗狗币你了解吗？ 2017-08-10  
 - 其它  
 &emsp;&emsp;人文关怀  
+&emsp;&emsp;&emsp;&emsp;媒体：耶路撒冷示威声起 “三教圣城”难解纷争 2017-12-18  
 &emsp;&emsp;&emsp;&emsp;情怀多少钱？回顾这些消亡之后又重返中国市场的品牌 2017-08-07  
 &emsp;&emsp;&emsp;&emsp;从“黑天鹅”事件中我们学到了什么？ 2017-08-07  
 &emsp;&emsp;&emsp;&emsp;卢靖姗：主演《战狼2》是妈妈的遗愿 | 新京报专访 2017-08-03  
@@ -419,6 +424,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Negative prefixes 2016-07-31  
 &emsp;&emsp;&emsp;&emsp;怎么判断否定前缀是加un还是dis？ 2016-07-25  
 &emsp;&emsp;汉语  
+&emsp;&emsp;&emsp;&emsp;深度| 余光中：现代中文被英文西化了？ 2017-12-18  
 &emsp;&emsp;&emsp;&emsp;汉字表意性与英文表音性对比 2017-07-04  
 &emsp;&emsp;&emsp;&emsp;汉语真的全世界最难学吗 -百家号 2017-05-29  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
@@ -512,6 +518,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python: How to download image using requests 2017-12-21  
+&emsp;&emsp;&emsp;&emsp;What is the difference between iterators and generators? 2017-12-18  
 &emsp;&emsp;&emsp;&emsp;Is Python call-by-value or call-by-reference? Neither. 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;Python: 捕获异常然后再抛出另一个异常的正确姿势 2017-11-10  
 &emsp;&emsp;&emsp;&emsp;Python: 如何在一个模块中执行另一个模块的 if __name__ == '__main__' 部分的代码 2017-11-08  
