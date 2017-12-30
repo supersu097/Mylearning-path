@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;solve the issue of vim not jumping to the last position 2017-12-30  
 &emsp;&emsp;&emsp;&emsp;How To List and Delete Iptables Firewall Rules | DigitalOcean 2017-12-23  
 &emsp;&emsp;&emsp;&emsp;5 Tools to Take or Capture Desktop Screenshots in Ubuntu Linux 2017-12-19  
 &emsp;&emsp;&emsp;&emsp;Enabling the Nginx Directory Index Listing 2017-12-17  
@@ -223,6 +224,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;MYSQL获取自增ID的四种方法 2017-12-29  
 &emsp;&emsp;&emsp;&emsp;mysql索引使用 2017-12-22  
 &emsp;&emsp;&emsp;&emsp;SQL四种语言：DDL,DML,DCL,TCL 2017-12-15  
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
@@ -518,6 +520,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;访问方法或函数内的docstring 2017-12-26  
+&emsp;&emsp;&emsp;&emsp;Underscores in Python 2017-12-25  
 &emsp;&emsp;&emsp;&emsp;Python: How to download image using requests 2017-12-21  
 &emsp;&emsp;&emsp;&emsp;What is the difference between iterators and generators? 2017-12-18  
 &emsp;&emsp;&emsp;&emsp;Is Python call-by-value or call-by-reference? Neither. 2017-11-16  
