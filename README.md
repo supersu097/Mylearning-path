@@ -71,6 +71,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Ubuntu, CentOS - Enable or Disable Service Autostart in Linux 2018-01-04  
+&emsp;&emsp;&emsp;&emsp;Page Zoom conflicts Inertial Scrolling on Linux and Windows - chromium 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;solve the issue of vim not jumping to the last position 2017-12-30  
 &emsp;&emsp;&emsp;&emsp;How To List and Delete Iptables Firewall Rules | DigitalOcean 2017-12-23  
 &emsp;&emsp;&emsp;&emsp;5 Tools to Take or Capture Desktop Screenshots in Ubuntu Linux 2017-12-19  
@@ -323,6 +325,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
+&emsp;&emsp;&emsp;&emsp;Solve the annoying flickering in 16.04 LTS - Chrome 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;NTP时间状态检查命令和关闭本地RTC 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;SVN (Subversion) Backup and Restore 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
@@ -376,6 +379,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
 &emsp;&emsp;Web Crawler  
+&emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2018-01-02  
+&emsp;&emsp;&emsp;&emsp;盘点selenium phantomJS使用的坑 2017-12-31  
+&emsp;&emsp;&emsp;&emsp;十分钟解决爬虫问题！超轻量级反爬虫方案 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;三种 Python 网络内容抓取工具与爬虫 2017-11-07  
 &emsp;&emsp;&emsp;&emsp;基于Redis的三种分布式爬虫策略 2017-09-26  
 &emsp;&emsp;&emsp;&emsp;Set phantomjs user-agent string (Example) 2017-09-05  
