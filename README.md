@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;Ubuntu, CentOS - Enable or Disable Service Autostart in Linux 2018-01-04  
 &emsp;&emsp;&emsp;&emsp;Page Zoom conflicts Inertial Scrolling on Linux and Windows - chromium 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;solve the issue of vim not jumping to the last position 2017-12-30  
@@ -125,7 +126,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Solutions for 22 bugs in Ubuntu 16.04 and Linux Mint 18.2 2017-10-22  
 &emsp;&emsp;&emsp;&emsp;10 things to do first in Linux Mint 18.2 Cinnamon 2017-10-22  
 &emsp;&emsp;&emsp;&emsp;SSD: how to optimize your Solid State Drive for Linux Mint 18.x, Ubuntu 16.04 and Debian 2017-10-22  
-&emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;How to increase SSH Connection timeout? 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;配置ssh密钥认证自动登录 2015-07-16  
 &emsp;&emsp;&emsp;&emsp;VMware 静态IP地址设置-本地电脑设置 2017-09-26  
@@ -167,7 +167,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;shc install guide 2015-12-11  
 &emsp;&emsp;&emsp;&emsp;How to install Ubuntu on your Android phone 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;LinuxonAndroid / Wiki / Advanced FAQ 2015-12-03  
-&emsp;&emsp;&emsp;&emsp;Using KDE Connect to Sync your Android Device with Your Linux Computer 2015-12-03  
 &emsp;&emsp;&emsp;&emsp;SElinux in ubuntu 14.04 and above 2015-11-12  
 &emsp;&emsp;&emsp;&emsp;wget指定文件，指定目录，指定路径下载 2015-11-05  
 &emsp;&emsp;&emsp;&emsp;CentOS用wget下载命令重命名方法 2015-11-06  
@@ -325,6 +324,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
+&emsp;&emsp;&emsp;&emsp;观点|17 年编程生涯的三大经验总结 2018-01-09  
+&emsp;&emsp;&emsp;&emsp;Solve some issues related to SSH login 2018-01-08  
 &emsp;&emsp;&emsp;&emsp;Solve the annoying flickering in 16.04 LTS - Chrome 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;NTP时间状态检查命令和关闭本地RTC 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;SVN (Subversion) Backup and Restore 2017-12-07  
@@ -526,6 +527,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;A Better Pip Workflow™ 2018-01-13  
+&emsp;&emsp;&emsp;&emsp;Private, protected and public in Python 2018-01-08  
+&emsp;&emsp;&emsp;&emsp;Decorators and Functional Python 2016-10-13  
 &emsp;&emsp;&emsp;&emsp;访问方法或函数内的docstring 2017-12-26  
 &emsp;&emsp;&emsp;&emsp;Underscores in Python 2017-12-25  
 &emsp;&emsp;&emsp;&emsp;Python: How to download image using requests 2017-12-21  
@@ -552,7 +556,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python 信息同时输出到控制台与文件 2016-11-05  
 &emsp;&emsp;&emsp;&emsp;Online Python Tutor - Visualize Python code execution 2015-10-30  
 &emsp;&emsp;&emsp;&emsp;Python smtplib发送邮件 2016-10-28  
-&emsp;&emsp;&emsp;&emsp;Decorators and Functional Python 2016-10-13  
 &emsp;&emsp;&emsp;&emsp;Django vs Flask: Which Is Better for Your Web App? 2016-10-12  
 &emsp;&emsp;&emsp;&emsp;python中的深拷贝和浅拷贝理解 2016-09-09  
 &emsp;&emsp;&emsp;&emsp;赋值、浅拷贝、深拷贝的区别？ 2016-09-09  
