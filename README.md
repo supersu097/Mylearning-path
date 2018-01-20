@@ -71,6 +71,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
+&emsp;&emsp;&emsp;&emsp;Solve screen tearing in Ubuntu with Nvidia/Intel graphics 2018-01-17  
+&emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
+&emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;Ubuntu, CentOS - Enable or Disable Service Autostart in Linux 2018-01-04  
 &emsp;&emsp;&emsp;&emsp;Page Zoom conflicts Inertial Scrolling on Linux and Windows - chromium 2017-12-31  
@@ -87,7 +91,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;CentOS7使用NTP进行时间同步 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;How to set up time zone on CentOS 7 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;如何在 CentOS 中设置 NTP 服务器-博客-云栖社区-阿里云 2017-12-08  
-&emsp;&emsp;&emsp;&emsp;技术|如何判断 Linux 服务器是否被入侵？ 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;How To Use Nmap to Scan for Open Ports on your VPS 2017-12-06  
 &emsp;&emsp;&emsp;&emsp;Linux: Force Users To Change Their Passwords Upon First Login 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;How to Change Linux User’s Password in One Command Line 2017-12-05  
@@ -143,7 +146,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Pipe to "xargs rm" : filename with spaces 2016-12-16  
 &emsp;&emsp;&emsp;&emsp;4 CCleaner Alternatives For Ubuntu Linux 2016-12-13  
 &emsp;&emsp;&emsp;&emsp;Building Vim from source 2016-12-12  
-&emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
 &emsp;&emsp;&emsp;&emsp;linux 技巧-IBM解析：使用 screen 管理你的远程会话 2015-07-08  
 &emsp;&emsp;&emsp;&emsp;如何使用 Linux，让你在网上保持匿名？ 2016-08-16  
 &emsp;&emsp;&emsp;&emsp;Linux从group中删除用户以及追加用户到附属组 2016-05-12  
@@ -225,6 +227,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;Quickly rename a MySQL database (change schema name) 2018-01-18  
 &emsp;&emsp;&emsp;&emsp;MYSQL获取自增ID的四种方法 2017-12-29  
 &emsp;&emsp;&emsp;&emsp;mysql索引使用 2017-12-22  
 &emsp;&emsp;&emsp;&emsp;SQL四种语言：DDL,DML,DCL,TCL 2017-12-15  
@@ -243,7 +246,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How to Enable MySQL logging? 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;MySQL存储引擎中的MyISAM和InnoDB区别详解 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;pymysql 解决utf8mb4扩展 2017-10-10  
-&emsp;&emsp;&emsp;&emsp;使用PyMySQL 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL处理大结果集的方法 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;mysql合理配置连接池数量 2017-10-10  
 &emsp;&emsp;&emsp;&emsp;Python操作MySQL的方式 2017-10-10  
@@ -527,6 +529,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python + Django 如何支撑了 7 亿月活用户的 Instagram？ 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;A Better Pip Workflow™ 2018-01-13  
 &emsp;&emsp;&emsp;&emsp;Private, protected and public in Python 2018-01-08  
 &emsp;&emsp;&emsp;&emsp;Decorators and Functional Python 2016-10-13  
@@ -545,7 +548,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Python中的模块 2017-08-26  
 &emsp;&emsp;&emsp;&emsp;How to "test" NoneType in python? 2017-09-04  
 &emsp;&emsp;&emsp;&emsp;Python中为什么推荐使用isinstance来进行类型判断？而不是type 2017-09-04  
-&emsp;&emsp;&emsp;&emsp;读写JSON数据 — python3-cookbook 2017-09-01  
 &emsp;&emsp;&emsp;&emsp;浅谈cgi、wsgi、uwsgi 与 uWSGI 2017-05-17  
 &emsp;&emsp;&emsp;&emsp;Python的16个“坑” 2016-07-17  
 &emsp;&emsp;&emsp;&emsp;发现一个屏蔽Python爬虫的高招 - Google 网上论坛 2016-12-26  
@@ -554,7 +556,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;python smtplib 发送邮件 以及解决乱码 2016-11-21  
 &emsp;&emsp;&emsp;&emsp;Python yield 使用浅析 2016-11-14  
 &emsp;&emsp;&emsp;&emsp;python 信息同时输出到控制台与文件 2016-11-05  
-&emsp;&emsp;&emsp;&emsp;Online Python Tutor - Visualize Python code execution 2015-10-30  
 &emsp;&emsp;&emsp;&emsp;Python smtplib发送邮件 2016-10-28  
 &emsp;&emsp;&emsp;&emsp;Django vs Flask: Which Is Better for Your Web App? 2016-10-12  
 &emsp;&emsp;&emsp;&emsp;python中的深拷贝和浅拷贝理解 2016-09-09  
