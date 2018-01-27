@@ -71,10 +71,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;Solve screen tearing in Ubuntu with Nvidia/Intel graphics 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
-&emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
 &emsp;&emsp;&emsp;&emsp;Ubuntu, CentOS - Enable or Disable Service Autostart in Linux 2018-01-04  
 &emsp;&emsp;&emsp;&emsp;Page Zoom conflicts Inertial Scrolling on Linux and Windows - chromium 2017-12-31  
@@ -227,6 +227,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;主表，从表，关联表，父表，子表 2018-01-25  
 &emsp;&emsp;&emsp;&emsp;Quickly rename a MySQL database (change schema name) 2018-01-18  
 &emsp;&emsp;&emsp;&emsp;MYSQL获取自增ID的四种方法 2017-12-29  
 &emsp;&emsp;&emsp;&emsp;mysql索引使用 2017-12-22  
@@ -254,11 +255,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Switch Databases With the Use Command 2017-06-01  
 &emsp;&emsp;&emsp;&emsp;Changing host permissions for MySQL users 2017-06-01  
 &emsp;&emsp;&emsp;&emsp;MysqlPasswordReset 2017-06-01  
-- 待阅  
-&emsp;&emsp;当日  
-&emsp;&emsp;近期  
-&emsp;&emsp;长远  
-&emsp;&emsp;待评估  
 - Algorithms and Data Structures  
 &emsp;&emsp;Basic Data Structure  
 &emsp;&emsp;&emsp;&emsp;完美二叉树, 完全二叉树和完满二叉树 - veli - 博客园 2017-07-02  
@@ -288,7 +284,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;为什么有时聪明的人让人感觉有攻击性和戾气？ 2016-05-29  
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;幻想是最大的不自由 2015-06-13  
-&emsp;&emsp;垠神Blog  
+&emsp;&emsp;垠神相关  
+&emsp;&emsp;&emsp;&emsp;GTF - Great Teacher Friedman 2018-01-21  
+&emsp;&emsp;&emsp;&emsp;我对王垠的看法，兼答友人自己对自己未来学术道路选择之看法 2018-01-21  
 &emsp;&emsp;&emsp;&emsp;AlphaGo Zero 和强人工智能 2017-11-05  
 &emsp;&emsp;&emsp;&emsp;人体工学 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-09-14  
@@ -326,6 +324,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
+&emsp;&emsp;&emsp;&emsp;变量命名规范--匈牙利命名法，骆驼命名法，帕斯卡命名法 2018-01-27  
 &emsp;&emsp;&emsp;&emsp;观点|17 年编程生涯的三大经验总结 2018-01-09  
 &emsp;&emsp;&emsp;&emsp;Solve some issues related to SSH login 2018-01-08  
 &emsp;&emsp;&emsp;&emsp;Solve the annoying flickering in 16.04 LTS - Chrome 2017-12-31  
@@ -488,6 +487,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;shadowsocks自定义代理规则user-rule设置方法 2017-08-28  
 &emsp;&emsp;&emsp;&emsp;扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品 2017-07-13  
 &emsp;&emsp;&emsp;&emsp;[09.25] Sublime Text 2.x, 3.x Universal License Keys collection 2017-02-05  
+- Music  
+&emsp;&emsp;Air Supply  
+&emsp;&emsp;&emsp;&emsp;这首歌确实是百听不厌，是由著名乐队Air Supply演唱的 2018-01-24  
+&emsp;&emsp;&emsp;&emsp;独家专访Air Supply:组合长久无诀窍 喜欢Adele 2018-01-24  
 - Programming Language  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;shell编程—if条件判断详解 2015-10-26  
@@ -529,6 +532,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;python 命名规范 2018-01-27  
+&emsp;&emsp;&emsp;&emsp;3 Advanced Python RegEx Examples (Multi-line, Substitution, Greedy/Non-Greedy Matching in Python) 2018-01-25  
 &emsp;&emsp;&emsp;&emsp;Python + Django 如何支撑了 7 亿月活用户的 Instagram？ 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;A Better Pip Workflow™ 2018-01-13  
 &emsp;&emsp;&emsp;&emsp;Private, protected and public in Python 2018-01-08  
