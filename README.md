@@ -76,7 +76,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Solve screen tearing in Ubuntu with Nvidia/Intel graphics 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
 &emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
+&emsp;&emsp;&emsp;&emsp;Solve some issues related to SSH login 2018-01-08  
 &emsp;&emsp;&emsp;&emsp;Ubuntu, CentOS - Enable or Disable Service Autostart in Linux 2018-01-04  
+&emsp;&emsp;&emsp;&emsp;Solve the annoying flickering in 16.04 LTS - Chrome 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;Page Zoom conflicts Inertial Scrolling on Linux and Windows - chromium 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;solve the issue of vim not jumping to the last position 2017-12-30  
 &emsp;&emsp;&emsp;&emsp;How To List and Delete Iptables Firewall Rules | DigitalOcean 2017-12-23  
@@ -88,9 +90,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Install PPTP VPN on CentOS 7 2017-12-11  
 &emsp;&emsp;&emsp;&emsp;How to establish PPTP VPN client connection on CENTOS/RHEL 7 Linux 2017-12-11  
 &emsp;&emsp;&emsp;&emsp;Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux 2017-12-09  
+&emsp;&emsp;&emsp;&emsp;NTP时间状态检查命令和关闭本地RTC 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;CentOS7使用NTP进行时间同步 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;How to set up time zone on CentOS 7 2017-12-08  
 &emsp;&emsp;&emsp;&emsp;如何在 CentOS 中设置 NTP 服务器-博客-云栖社区-阿里云 2017-12-08  
+&emsp;&emsp;&emsp;&emsp;SVN (Subversion) Backup and Restore 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;How To Use Nmap to Scan for Open Ports on your VPS 2017-12-06  
 &emsp;&emsp;&emsp;&emsp;Linux: Force Users To Change Their Passwords Upon First Login 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;How to Change Linux User’s Password in One Command Line 2017-12-05  
@@ -227,6 +231,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;理解事务 - MySQL 事务处理机制 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;mysql悲观锁总结和实践 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;mysql乐观锁总结和实践 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;mysql 四种事物隔离级别的小总结 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;对mysql事务提交、回滚的错误理解 2018-01-29  
 &emsp;&emsp;&emsp;&emsp;主表，从表，关联表，父表，子表 2018-01-25  
 &emsp;&emsp;&emsp;&emsp;Quickly rename a MySQL database (change schema name) 2018-01-18  
 &emsp;&emsp;&emsp;&emsp;MYSQL获取自增ID的四种方法 2017-12-29  
@@ -324,12 +333,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
-&emsp;&emsp;&emsp;&emsp;变量命名规范--匈牙利命名法，骆驼命名法，帕斯卡命名法 2018-01-27  
 &emsp;&emsp;&emsp;&emsp;观点|17 年编程生涯的三大经验总结 2018-01-09  
-&emsp;&emsp;&emsp;&emsp;Solve some issues related to SSH login 2018-01-08  
-&emsp;&emsp;&emsp;&emsp;Solve the annoying flickering in 16.04 LTS - Chrome 2017-12-31  
-&emsp;&emsp;&emsp;&emsp;NTP时间状态检查命令和关闭本地RTC 2017-12-08  
-&emsp;&emsp;&emsp;&emsp;SVN (Subversion) Backup and Restore 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
 &emsp;&emsp;&emsp;&emsp;为什么在简历和面试中使用STAR原则成功率更高 2017-08-17  
@@ -393,6 +397,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
 &emsp;&emsp;Freelance Life  
 &emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
+&emsp;&emsp;生活&医学  
+&emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有什么不同？效果真的有很大差别吗？ 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;你的牙膏真的选对了吗？细数几款小编海淘过的产品 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;牙医都害怕的这3种牙膏，赶紧 丢掉 2018-01-30  
+&emsp;&emsp;待阅  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;Look after 和 take care of 有区别吗？ 2017-11-26  
@@ -516,6 +525,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;linux中shell变量$#,$@,$0,$1,$2的含义解释 2015-10-10  
 &emsp;&emsp;&emsp;&emsp;Shell：echo如何输出带颜色的文本 2015-08-18  
 &emsp;&emsp;OtherPL  
+&emsp;&emsp;&emsp;&emsp;说说这篇「我为什么从python转向go」 2018-01-28  
+&emsp;&emsp;&emsp;&emsp;我为什么从python转向go 2018-01-28  
 &emsp;&emsp;&emsp;&emsp;Swift二三事 2016-06-03  
 &emsp;&emsp;&emsp;&emsp;Groovy入门教程 2016-06-03  
 &emsp;&emsp;&emsp;&emsp;为啥 Kotlin 是我下一个要掌握的语言 2016-06-03  
@@ -532,6 +543,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python Classes: Inheritance v. Composition 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;python 命名规范 2018-01-27  
 &emsp;&emsp;&emsp;&emsp;3 Advanced Python RegEx Examples (Multi-line, Substitution, Greedy/Non-Greedy Matching in Python) 2018-01-25  
 &emsp;&emsp;&emsp;&emsp;Python + Django 如何支撑了 7 亿月活用户的 Instagram？ 2018-01-17  
@@ -610,7 +622,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;pip使用http代理与SSL Socks转http的方法 2015-07-23  
 &emsp;&emsp;&emsp;&emsp;pip代理设置 2015-07-23  
 &emsp;&emsp;Java  
-&emsp;&emsp;&emsp;&emsp;ubuntu maven环境安装配置 2016-07-01  
+&emsp;&emsp;&emsp;&emsp;Java Build Tools: Ant vs Maven vs Gradle 2018-02-03  
+&emsp;&emsp;&emsp;&emsp;Java Build Tools: Ant vs Maven vs Gradle 2018-02-03  
+&emsp;&emsp;&emsp;&emsp;Difference between Java 7 and Java 8 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;泛型和面向接口 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 安装 JDK 7 / JDK8 的两种方式 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;Java : 一个帝国的诞生 2016-05-21  
@@ -665,3 +679,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 安装 LEMP / LNMP 教程 2017-11-15  
 &emsp;&emsp;&emsp;&emsp;How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04 2017-11-15  
+&emsp;&emsp;Software Engineering  
+&emsp;&emsp;&emsp;&emsp;理解RPC调用 2018-01-31  
+&emsp;&emsp;&emsp;&emsp;一分钟教你知道乐观锁和悲观锁的区别 2018-01-29  
+&emsp;&emsp;&emsp;&emsp;变量命名规范--匈牙利命名法，骆驼命名法，帕斯卡命名法 2018-01-27  
