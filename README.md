@@ -398,6 +398,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Freelance Life  
 &emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
 &emsp;&emsp;生活&医学  
+&emsp;&emsp;&emsp;&emsp;为什么抑制前列腺素合成可以止痛？ 2018-02-07  
+&emsp;&emsp;&emsp;&emsp;肾上腺疲劳综合症 2018-02-06  
 &emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有什么不同？效果真的有很大差别吗？ 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;你的牙膏真的选对了吗？细数几款小编海淘过的产品 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;牙医都害怕的这3种牙膏，赶紧 丢掉 2018-01-30  
@@ -454,6 +456,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Why Learning French isn't hard - Fluent in 3 months 2017-02-17  
 - 工具  
 &emsp;&emsp;Git  
+&emsp;&emsp;&emsp;&emsp;git初体验-git分支 2016-04-11  
 &emsp;&emsp;&emsp;&emsp;Remove a commit on GitHub 2017-12-06  
 &emsp;&emsp;&emsp;&emsp;git 查看某个 commit 的改动 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;Changing a commit message - User Documentation 2017-09-05  
@@ -465,7 +468,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;GFM 格式说明 2016-06-21  
 &emsp;&emsp;&emsp;&emsp;原来Github上的README.md文件这么有意思—Markdown语言详解 2016-06-20  
 &emsp;&emsp;&emsp;&emsp;让 Git 全局性的忽略 .DS_Store 2016-04-12  
-&emsp;&emsp;&emsp;&emsp;git初体验-git分支 2016-04-11  
 &emsp;&emsp;&emsp;&emsp;Your branch is ahead of 'origin/master' by 1 commit 2016-04-11  
 &emsp;&emsp;&emsp;&emsp;"git rm" 和 "rm" 的区别 2016-04-05  
 &emsp;&emsp;&emsp;&emsp;猴子都能懂的GIT入门 2015-12-17  
@@ -491,6 +493,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;PyCharm配置SFTP远程调试Django应用 2016-06-15  
 &emsp;&emsp;&emsp;&emsp;PyCharm 使用技巧 2016-04-10  
 &emsp;&emsp;other  
+&emsp;&emsp;&emsp;&emsp;Telegram 群、频道、机器人 - 汇总分享 2018-02-08  
 &emsp;&emsp;&emsp;&emsp;Subversion Tutorial: 10 Most Used SVN Commands with Examples 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;如何移除 Chrome Android 新分頁災難性 2017-09-06  
 &emsp;&emsp;&emsp;&emsp;shadowsocks自定义代理规则user-rule设置方法 2017-08-28  
@@ -622,7 +625,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;pip使用http代理与SSL Socks转http的方法 2015-07-23  
 &emsp;&emsp;&emsp;&emsp;pip代理设置 2015-07-23  
 &emsp;&emsp;Java  
-&emsp;&emsp;&emsp;&emsp;Java Build Tools: Ant vs Maven vs Gradle 2018-02-03  
 &emsp;&emsp;&emsp;&emsp;Java Build Tools: Ant vs Maven vs Gradle 2018-02-03  
 &emsp;&emsp;&emsp;&emsp;Difference between Java 7 and Java 8 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;泛型和面向接口 2016-06-15  
