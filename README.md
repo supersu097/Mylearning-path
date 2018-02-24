@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;shadowsocks encryption 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;Solve screen tearing in Ubuntu with Nvidia/Intel graphics 2018-01-17  
@@ -353,6 +354,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
+&emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
 &emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
@@ -546,6 +548,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python @property: How to Use it and Why? 2018-02-23  
 &emsp;&emsp;&emsp;&emsp;Python Classes: Inheritance v. Composition 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;python 命名规范 2018-01-27  
 &emsp;&emsp;&emsp;&emsp;3 Advanced Python RegEx Examples (Multi-line, Substitution, Greedy/Non-Greedy Matching in Python) 2018-01-25  
