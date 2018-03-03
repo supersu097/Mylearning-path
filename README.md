@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;技术|Linux 下清空或删除大文件内容的 5 种方法 2018-02-28  
 &emsp;&emsp;&emsp;&emsp;shadowsocks encryption 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
@@ -232,6 +233,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
 &emsp;&emsp;&emsp;&emsp;理解事务 - MySQL 事务处理机制 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;mysql悲观锁总结和实践 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;mysql乐观锁总结和实践 2018-01-30  
@@ -245,7 +247,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;MySQL建库建表支持中文 2017-10-13  
 &emsp;&emsp;&emsp;&emsp;SQLite学习手册(数据类型) 2017-11-08  
 &emsp;&emsp;&emsp;&emsp;MySQL 数据类型 | 菜鸟教程 2017-10-31  
-&emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
 &emsp;&emsp;&emsp;&emsp;SQL MS Access、MySQL 和 SQL Server 数据类型 2017-10-30  
 &emsp;&emsp;&emsp;&emsp;Avoiding auto-increment gaps in MySQL 2017-10-19  
 &emsp;&emsp;&emsp;&emsp;A demo of PyMySQL Insert NULL 2017-10-19  
@@ -354,6 +355,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
+&emsp;&emsp;&emsp;&emsp;工作常用命令&路径 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
@@ -452,6 +454,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;汉语真的全世界最难学吗 -百家号 2017-05-29  
 &emsp;&emsp;&emsp;&emsp;Why Chinese Is So Damn Hard 2017-02-25  
 &emsp;&emsp;French  
+&emsp;&emsp;&emsp;&emsp;在法国，转角遇到法式英语 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;French Learning 2017-05-30  
 &emsp;&emsp;&emsp;&emsp;法国教育部最认可的法语能力证明 2017-05-30  
 &emsp;&emsp;&emsp;&emsp;How to Start Learning French - FrenchCrazy 2017-02-27  
@@ -628,6 +631,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;pip使用http代理与SSL Socks转http的方法 2015-07-23  
 &emsp;&emsp;&emsp;&emsp;pip代理设置 2015-07-23  
 &emsp;&emsp;Java  
+&emsp;&emsp;&emsp;&emsp;Java程序执行Linux命令 2018-02-27  
 &emsp;&emsp;&emsp;&emsp;Java Build Tools: Ant vs Maven vs Gradle 2018-02-03  
 &emsp;&emsp;&emsp;&emsp;Difference between Java 7 and Java 8 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;泛型和面向接口 2016-06-15  
@@ -679,6 +683,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;PHP Namespaces in 120 Seconds 2018-03-02  
+&emsp;&emsp;&emsp;&emsp;How to Install Different PHP (5.6, 7.0 and 7.1) Versions in Ubuntu 2018-03-01  
+&emsp;&emsp;&emsp;&emsp;Php调用Python脚本 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;php中traits学习笔记 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;PHP 5.4中的traits初探 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
