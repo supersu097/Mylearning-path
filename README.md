@@ -71,6 +71,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
+&emsp;&emsp;&emsp;&emsp;Ubuntu: How to Use Incron to Monitor Important Files and Folders 2018-03-08  
+&emsp;&emsp;&emsp;&emsp;Colorful shell prompt for Bash 2018-03-08  
 &emsp;&emsp;&emsp;&emsp;技术|Linux 下清空或删除大文件内容的 5 种方法 2018-02-28  
 &emsp;&emsp;&emsp;&emsp;shadowsocks encryption 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
@@ -683,6 +686,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;FastCgi与PHP-fpm之间的关系 2018-03-09  
+&emsp;&emsp;&emsp;&emsp;Determining the correct number of child processes for PHP-FPM on NGinx 2018-03-09  
+&emsp;&emsp;&emsp;&emsp;PHP 7 Scalar Type Hinting Finally Approved 2018-03-07  
+&emsp;&emsp;&emsp;&emsp;Named Parameters in PHP 2018-03-07  
 &emsp;&emsp;&emsp;&emsp;PHP Namespaces in 120 Seconds 2018-03-02  
 &emsp;&emsp;&emsp;&emsp;How to Install Different PHP (5.6, 7.0 and 7.1) Versions in Ubuntu 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;Php调用Python脚本 2018-03-01  
