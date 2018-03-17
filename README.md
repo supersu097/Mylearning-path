@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;SSH Login log files on centos7 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
 &emsp;&emsp;&emsp;&emsp;Ubuntu: How to Use Incron to Monitor Important Files and Folders 2018-03-08  
 &emsp;&emsp;&emsp;&emsp;Colorful shell prompt for Bash 2018-03-08  
@@ -392,6 +393,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
 &emsp;&emsp;Web Crawler  
+&emsp;&emsp;&emsp;&emsp;python3.x爬取网易云音乐，超详细版 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2018-01-02  
 &emsp;&emsp;&emsp;&emsp;盘点selenium phantomJS使用的坑 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;十分钟解决爬虫问题！超轻量级反爬虫方案 2017-12-31  
@@ -686,6 +688,9 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;ThinkPHP5 RESTful API开发版本控制 2018-03-14  
+&emsp;&emsp;&emsp;&emsp;phpStorm+xdebug断点调试环境配置最简实践 2018-03-12  
+&emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;FastCgi与PHP-fpm之间的关系 2018-03-09  
 &emsp;&emsp;&emsp;&emsp;Determining the correct number of child processes for PHP-FPM on NGinx 2018-03-09  
 &emsp;&emsp;&emsp;&emsp;PHP 7 Scalar Type Hinting Finally Approved 2018-03-07  
@@ -695,7 +700,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Php调用Python脚本 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;php中traits学习笔记 2017-11-21  
 &emsp;&emsp;&emsp;&emsp;PHP 5.4中的traits初探 2017-11-21  
-&emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
 &emsp;&emsp;&emsp;&emsp;Ubuntu 16.04 安装 LEMP / LNMP 教程 2017-11-15  
 &emsp;&emsp;&emsp;&emsp;How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04 2017-11-15  
 &emsp;&emsp;Software Engineering  
