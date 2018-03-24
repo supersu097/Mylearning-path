@@ -399,7 +399,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;十分钟解决爬虫问题！超轻量级反爬虫方案 2017-12-31  
 &emsp;&emsp;&emsp;&emsp;三种 Python 网络内容抓取工具与爬虫 2017-11-07  
 &emsp;&emsp;&emsp;&emsp;基于Redis的三种分布式爬虫策略 2017-09-26  
-&emsp;&emsp;&emsp;&emsp;Set phantomjs user-agent string (Example) 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2017-09-05  
 &emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
