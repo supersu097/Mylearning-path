@@ -10,13 +10,13 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 - Operating System  
 &emsp;&emsp;Mac OS  
+&emsp;&emsp;&emsp;&emsp;ITerm 光标按照单词移动 2016-03-18  
 &emsp;&emsp;&emsp;&emsp;macOS Sierra 如何打开任何来源 2017-02-05  
 &emsp;&emsp;&emsp;&emsp;Mac OS X 安装GUN命令行工具 2016-06-19  
 &emsp;&emsp;&emsp;&emsp;mac 下终端iterm2 使用技巧 2016-05-07  
 &emsp;&emsp;&emsp;&emsp;Mac版Mousepose使用教程 2016-04-24  
 &emsp;&emsp;&emsp;&emsp;Mac快捷键符号解释及用法介绍 2016-04-10  
 &emsp;&emsp;&emsp;&emsp;高效 MacBook 工作环境配置 2016-03-20  
-&emsp;&emsp;&emsp;&emsp;Mac 光标按照单词移动 2016-03-18  
 &emsp;&emsp;Android  
 &emsp;&emsp;&emsp;&emsp;Android——编译体系中的【PRODUCT_COPY_FILES】【ALL_PREBUILT】 2015-12-06  
 &emsp;&emsp;&emsp;&emsp;ubuntu 12.10的vmware虚拟机中连接android手机设备调试 2016-07-16  
@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;ss-sever-lantency-test.sh 2018-03-30  
 &emsp;&emsp;&emsp;&emsp;SSH Login log files on centos7 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
 &emsp;&emsp;&emsp;&emsp;Ubuntu: How to Use Incron to Monitor Important Files and Folders 2018-03-08  
@@ -359,7 +360,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
 &emsp;&emsp;运维&架构  
-&emsp;&emsp;&emsp;&emsp;工作常用命令&路径 2018-03-01  
 &emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
