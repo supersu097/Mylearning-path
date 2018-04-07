@@ -71,6 +71,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
 &emsp;&emsp;&emsp;&emsp;ss-sever-lantency-test.sh 2018-03-30  
 &emsp;&emsp;&emsp;&emsp;SSH Login log files on centos7 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
@@ -121,7 +122,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;RHEL/CentOS可用的第三方软件库详解 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;CentOS 7 网络配置详解 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;How do I grep recursively through .gz files? 2017-11-24  
-&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
 &emsp;&emsp;&emsp;&emsp;3 Ways to List All Installed Packages in RHEL, CentOS and Fedora 2017-11-06  
 &emsp;&emsp;&emsp;&emsp;Automatic mount of second drive in Ubuntu 2017-11-19  
 &emsp;&emsp;&emsp;&emsp;How to Configure nginx 2017-11-14  
@@ -351,7 +351,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;浅谈程序员的英语学习 2016-08-02  
 &emsp;&emsp;&emsp;&emsp;程序员要如何学英语？ 2016-08-02  
 &emsp;&emsp;&emsp;&emsp;Building an Open Source Company: Interview with GitLab's CEO 2016-07-23  
-&emsp;&emsp;&emsp;&emsp;How to use Google in China - Quora 2016-07-19  
 &emsp;&emsp;&emsp;&emsp;详细介绍一下 Smoke Testing（冒烟测试） 2016-07-15  
 &emsp;&emsp;&emsp;&emsp;Dash：程序员的的好帮手 2016-06-10  
 &emsp;&emsp;&emsp;&emsp;有人说，程序员不配叫工程师！ 2016-06-09  
