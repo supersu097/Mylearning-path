@@ -10,6 +10,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 - Operating System  
 &emsp;&emsp;Mac OS  
+&emsp;&emsp;&emsp;&emsp;破解MAC版欧陆词典3.6.8 2018-05-05  
 &emsp;&emsp;&emsp;&emsp;ITerm 光标按照单词移动 2016-03-18  
 &emsp;&emsp;&emsp;&emsp;macOS Sierra 如何打开任何来源 2017-02-05  
 &emsp;&emsp;&emsp;&emsp;Mac OS X 安装GUN命令行工具 2016-06-19  
@@ -40,10 +41,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;数字签名简介 2015-12-05  
 &emsp;&emsp;&emsp;&emsp;在 Android 上玩转 Linux 2015-12-01  
 &emsp;&emsp;&emsp;&emsp;Android应用开发编译框架流程与IDE及Gradle概要 - 工匠若水 - 博客频道 - CSDN.NET 2015-11-07  
-&emsp;&emsp;&emsp;&emsp;Ghost Push - Monkey Test & Time Service Analysis Report 2015-11-09  
-&emsp;&emsp;&emsp;&emsp;百度系应用WormHole漏洞细节分析 2015-11-04  
-&emsp;&emsp;&emsp;&emsp;比葫芦娃还可怕的百度全系APP SDK漏洞 - WormHole虫洞漏洞分析报告 2015-11-04  
-&emsp;&emsp;&emsp;&emsp;百度WormHole漏洞检测POC 2015-11-04  
 &emsp;&emsp;&emsp;&emsp;Android修改系统/应用签名 2015-09-19  
 &emsp;&emsp;&emsp;&emsp;如何预置Android 手机 APK 2015-07-22  
 &emsp;&emsp;&emsp;&emsp;Invalid policyvers specified: 26解决方案 2015-09-09  
@@ -71,7 +68,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
-&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
 &emsp;&emsp;&emsp;&emsp;ss-sever-lantency-test.sh 2018-03-30  
 &emsp;&emsp;&emsp;&emsp;SSH Login log files on centos7 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
@@ -80,7 +76,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;技术|Linux 下清空或删除大文件内容的 5 种方法 2018-02-28  
 &emsp;&emsp;&emsp;&emsp;shadowsocks encryption 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;TCP-BBR 一键安装脚本 2018-01-17  
-&emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
 &emsp;&emsp;&emsp;&emsp;Solve screen tearing in Ubuntu with Nvidia/Intel graphics 2018-01-17  
 &emsp;&emsp;&emsp;&emsp;Schedule Tasks on Linux Using Crontab | kvz.io 2016-12-08  
 &emsp;&emsp;&emsp;&emsp;解決Linux系統的中文變成細明體或是標楷體的問題 2017-10-20  
@@ -198,7 +193,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;使用openwrt路由器进行ssh自动翻墙 2015-09-25  
 &emsp;&emsp;&emsp;&emsp;Autossh反向连接 2015-09-18  
 &emsp;&emsp;&emsp;&emsp;用cURL实现HTTP操作 2015-09-16  
-&emsp;&emsp;&emsp;&emsp;Is there anyway to fix a "Secure Connection Failed" 2015-09-12  
 &emsp;&emsp;&emsp;&emsp;访问没有外网ip的NAS服务器的解决办法 2015-09-07  
 &emsp;&emsp;&emsp;&emsp;How To Set Up SSH Tunneling on a VPS 2015-09-06  
 &emsp;&emsp;&emsp;&emsp;nat123软件linux2.8及以上版本的安装启动教程 2015-08-29  
@@ -238,6 +232,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;使用PyMySQL处理大结果集的方法 2018-04-24  
 &emsp;&emsp;&emsp;&emsp;数据库表设计（一对多，多对多） 2018-04-14  
 &emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
 &emsp;&emsp;&emsp;&emsp;理解事务 - MySQL 事务处理机制 2018-01-30  
@@ -359,40 +354,37 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;如何看待 Max Howell 被 Google 拒绝 2016-06-05  
 &emsp;&emsp;&emsp;&emsp;从代码行数是否可以评估一个人的工作成绩 2016-04-09  
 &emsp;&emsp;&emsp;&emsp;程序员必知：16个超有用的在线工具 2015-12-31  
-&emsp;&emsp;运维&架构  
-&emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
-&emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
-&emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
-&emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
-&emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
-&emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
-&emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
-&emsp;&emsp;&emsp;&emsp;AWS in Plain English 2017-06-02  
-&emsp;&emsp;&emsp;&emsp;我眼中的SAML (Security Assertion Markup Language) 2017-03-09  
-&emsp;&emsp;&emsp;&emsp;Choosing an SSO Strategy: SAML vs OAuth2 2017-02-24  
-&emsp;&emsp;&emsp;&emsp;xxx私有云之Docker 2016-08-02  
-&emsp;&emsp;&emsp;&emsp;xxx私有云之总体规划及工作计划 2016-07-20  
-&emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
-&emsp;&emsp;&emsp;&emsp;你需要了解的未来技术趋势——serverless怎样改变未来架构 2016-08-10  
-&emsp;&emsp;&emsp;&emsp;从敏捷死了到Devops死了 2016-08-10  
-&emsp;&emsp;&emsp;&emsp;用grafana展示zabbix数据 2016-07-15  
-&emsp;&emsp;&emsp;&emsp;腾讯亿万量级告警是如何做到全、准、快的？ 2016-07-14  
-&emsp;&emsp;&emsp;&emsp;Explanation of 90th percentile for statD 2016-07-12  
-&emsp;&emsp;&emsp;&emsp;HTTP状态码详解 404 500 502 504... 全解 2016-06-02  
-&emsp;&emsp;&emsp;&emsp;想入运维坑只能从运维监控做起了么？ 2016-05-30  
-&emsp;&emsp;&emsp;&emsp;为什么很多公司都自主开发监控系统？ 2016-05-30  
-&emsp;&emsp;&emsp;&emsp;为什么Hadoop将一定会是分布式计算的未来? 2016-05-22  
-&emsp;&emsp;&emsp;&emsp;IaaS/PaaS/SaaS，它们都是什么 2016-04-14  
-&emsp;&emsp;&emsp;&emsp;zabbix资产清单inventory管理 2016-03-22  
-&emsp;&emsp;&emsp;&emsp;zabbix Event acknowledgment事件确认 2016-03-22  
-&emsp;&emsp;&emsp;&emsp;zabbix查看历史数据和itemid 2016-03-21  
-&emsp;&emsp;&emsp;&emsp;zabbix_get :command not found 解决办法 2016-03-21  
-&emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
-&emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
 &emsp;&emsp;睡眠  
 &emsp;&emsp;&emsp;&emsp;睡眠周期与人体体温及脑电波关系分析 2017-08-14  
 &emsp;&emsp;&emsp;&emsp;分段式睡眠：被遗忘的睡眠模式| 2017-08-14  
-&emsp;&emsp;Web Crawler  
+&emsp;&emsp;Freelance Life  
+&emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
+&emsp;&emsp;生活&医学  
+&emsp;&emsp;&emsp;&emsp;为什么抑制前列腺素合成可以止痛？ 2018-02-07  
+&emsp;&emsp;&emsp;&emsp;肾上腺疲劳综合症 2018-02-06  
+&emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有什么不同？效果真的有很大差别吗？ 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;你的牙膏真的选对了吗？细数几款小编海淘过的产品 2018-01-30  
+&emsp;&emsp;&emsp;&emsp;牙医都害怕的这3种牙膏，赶紧 丢掉 2018-01-30  
+&emsp;&emsp;Security&Privacy  
+&emsp;&emsp;&emsp;&emsp;Fiddler教程 2018-06-22  
+&emsp;&emsp;&emsp;&emsp;How To Set Up Multi-Factor Authentication for SSH on Ubuntu 14.04 2018-06-12  
+&emsp;&emsp;&emsp;&emsp;Where are the OpenVPN connection logs and configuration files? 2018-06-12  
+&emsp;&emsp;&emsp;&emsp;CISOfy Software Repository 2018-06-12  
+&emsp;&emsp;&emsp;&emsp;Setup SSH Login Email Alert on Ubuntu 14.04 or Debian 2018-06-12  
+&emsp;&emsp;&emsp;&emsp;My KeePass to LastPass Migration Woes! 2018-06-10  
+&emsp;&emsp;&emsp;&emsp;How To Set Up Multi-Factor Authentication for SSH on Ubuntu 16.04 2018-06-09  
+&emsp;&emsp;&emsp;&emsp;Ports Open on my Mac 2018-06-04  
+&emsp;&emsp;&emsp;&emsp;没有绝对安全的系统：记一次服务器沦陷后的分析 2018-06-04  
+&emsp;&emsp;&emsp;&emsp;Enterprise Android Vs iOS: Which is More Secure? 2018-06-02  
+&emsp;&emsp;&emsp;&emsp;Use Fail2ban to Secure Your Server 2017-11-22  
+&emsp;&emsp;&emsp;&emsp;如何判断 Linux 服务器是否被入侵？ 2017-12-07  
+&emsp;&emsp;&emsp;&emsp;Ghost Push - Monkey Test & Time Service Analysis Report 2015-11-09  
+&emsp;&emsp;&emsp;&emsp;Is there anyway to fix a "Secure Connection Failed" 2015-09-12  
+- Web Crawler  
+&emsp;&emsp;Crawler General  
+&emsp;&emsp;&emsp;&emsp;利用selenium时，chrome和firfox使用代理ip 2018-06-02  
+&emsp;&emsp;&emsp;&emsp;代理IP的高匿、匿名、透明有何区别 2018-06-02  
+&emsp;&emsp;&emsp;&emsp;pycharm下打开、执行并调试scrapy爬虫程序 2018-05-07  
 &emsp;&emsp;&emsp;&emsp;python3.x爬取网易云音乐，超详细版 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Selenium PhantomJS custom headers in Python 2018-01-02  
 &emsp;&emsp;&emsp;&emsp;盘点selenium phantomJS使用的坑 2017-12-31  
@@ -403,15 +395,16 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Running Selenium with the new headless Chrome 2017-09-03  
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
 &emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
-&emsp;&emsp;Freelance Life  
-&emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
-&emsp;&emsp;生活&医学  
-&emsp;&emsp;&emsp;&emsp;为什么抑制前列腺素合成可以止痛？ 2018-02-07  
-&emsp;&emsp;&emsp;&emsp;肾上腺疲劳综合症 2018-02-06  
-&emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有什么不同？效果真的有很大差别吗？ 2018-01-30  
-&emsp;&emsp;&emsp;&emsp;你的牙膏真的选对了吗？细数几款小编海淘过的产品 2018-01-30  
-&emsp;&emsp;&emsp;&emsp;牙医都害怕的这3种牙膏，赶紧 丢掉 2018-01-30  
-&emsp;&emsp;待阅  
+&emsp;&emsp;Scrapy  
+&emsp;&emsp;&emsp;&emsp;pycharm下打开、执行并调试scrapy爬虫程序 2018-06-02  
+&emsp;&emsp;&emsp;&emsp;Scrapy第一战—爬取智联招聘 2018-05-08  
+&emsp;&emsp;&emsp;&emsp;scrapy学习笔记 2018-05-08  
+&emsp;&emsp;&emsp;&emsp;精通Python爬虫从Scrapy到移动应用 2018-05-08  
+&emsp;&emsp;&emsp;&emsp;从0-1打造最强性能Scrapy爬虫集群 2018-05-08  
+&emsp;&emsp;&emsp;&emsp;专栏：Scrapy爬虫 - CSDN博客 2018-05-08  
+&emsp;&emsp;&emsp;&emsp;爬虫总结(二)-- scrapy 2018-05-07  
+&emsp;&emsp;&emsp;&emsp;《 利用 Python36，基于 Scrapy 框架的爬虫思路 》 2018-05-07  
+&emsp;&emsp;&emsp;&emsp;Scrapy+Selenium+Headless Chrome的Google Play爬虫 2018-05-07  
 - 自然语言  
 &emsp;&emsp;English  
 &emsp;&emsp;&emsp;&emsp;Look after 和 take care of 有区别吗？ 2017-11-26  
@@ -512,6 +505,40 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Air Supply  
 &emsp;&emsp;&emsp;&emsp;这首歌确实是百听不厌，是由著名乐队Air Supply演唱的 2018-01-24  
 &emsp;&emsp;&emsp;&emsp;独家专访Air Supply:组合长久无诀窍 喜欢Adele 2018-01-24  
+- 运维  
+&emsp;&emsp;运维通用  
+&emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
+&emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
+&emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
+&emsp;&emsp;&emsp;&emsp;w00tw00t.at.blackhats.romanian.anti-sec – WTF!? 2017-11-21  
+&emsp;&emsp;&emsp;&emsp;What is Load Balancing? | DigitalOcean 2017-07-30  
+&emsp;&emsp;&emsp;&emsp;Introduction and Advantages/Disadvantages of Clustering in Linux - Part 1 2017-07-30  
+&emsp;&emsp;&emsp;&emsp;AWS cloud terminology - Kernel Talks 2017-06-09  
+&emsp;&emsp;&emsp;&emsp;AWS in Plain English 2017-06-02  
+&emsp;&emsp;&emsp;&emsp;我眼中的SAML (Security Assertion Markup Language) 2017-03-09  
+&emsp;&emsp;&emsp;&emsp;Choosing an SSO Strategy: SAML vs OAuth2 2017-02-24  
+&emsp;&emsp;&emsp;&emsp;xxx私有云之Docker 2016-08-02  
+&emsp;&emsp;&emsp;&emsp;xxx私有云之总体规划及工作计划 2016-07-20  
+&emsp;&emsp;&emsp;&emsp;Zabbix：Get value from agent failed: cannot connect to xxxx 2016-03-21  
+&emsp;&emsp;&emsp;&emsp;你需要了解的未来技术趋势——serverless怎样改变未来架构 2016-08-10  
+&emsp;&emsp;&emsp;&emsp;从敏捷死了到Devops死了 2016-08-10  
+&emsp;&emsp;&emsp;&emsp;用grafana展示zabbix数据 2016-07-15  
+&emsp;&emsp;&emsp;&emsp;腾讯亿万量级告警是如何做到全、准、快的？ 2016-07-14  
+&emsp;&emsp;&emsp;&emsp;Explanation of 90th percentile for statD 2016-07-12  
+&emsp;&emsp;&emsp;&emsp;HTTP状态码详解 404 500 502 504... 全解 2016-06-02  
+&emsp;&emsp;&emsp;&emsp;想入运维坑只能从运维监控做起了么？ 2016-05-30  
+&emsp;&emsp;&emsp;&emsp;为什么很多公司都自主开发监控系统？ 2016-05-30  
+&emsp;&emsp;&emsp;&emsp;为什么Hadoop将一定会是分布式计算的未来? 2016-05-22  
+&emsp;&emsp;&emsp;&emsp;IaaS/PaaS/SaaS，它们都是什么 2016-04-14  
+&emsp;&emsp;&emsp;&emsp;zabbix资产清单inventory管理 2016-03-22  
+&emsp;&emsp;&emsp;&emsp;zabbix Event acknowledgment事件确认 2016-03-22  
+&emsp;&emsp;&emsp;&emsp;zabbix查看历史数据和itemid 2016-03-21  
+&emsp;&emsp;&emsp;&emsp;zabbix_get :command not found 解决办法 2016-03-21  
+&emsp;&emsp;&emsp;&emsp;Zabbix 安装及微信短信提醒 2016-03-20  
+&emsp;&emsp;&emsp;&emsp;使用yum安装Zabbix监控 2016-03-20  
+&emsp;&emsp;Docker  
+&emsp;&emsp;&emsp;&emsp;Docker镜像加速器 2018-06-06  
+&emsp;&emsp;&emsp;&emsp;阿里云Docker CE 镜像源站 2018-04-24  
 - Programming Language  
 &emsp;&emsp;Makefile  
 &emsp;&emsp;&emsp;&emsp;shell编程—if条件判断详解 2015-10-26  
@@ -555,6 +582,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Node.js : 我只需要一个店小二 2016-05-21  
 &emsp;&emsp;&emsp;&emsp;Javascript：一个屌丝的逆袭 2016-05-21  
 &emsp;&emsp;Python  
+&emsp;&emsp;&emsp;&emsp;Python正则表达式匹配中文 2018-05-10  
 &emsp;&emsp;&emsp;&emsp;Python @property: How to Use it and Why? 2018-02-23  
 &emsp;&emsp;&emsp;&emsp;Python Classes: Inheritance v. Composition 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;python 命名规范 2018-01-27  
