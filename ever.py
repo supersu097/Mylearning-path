@@ -57,12 +57,12 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
     with open('README.md', 'a+') as r:
         for groupname in groupList:
             print >> r, '- ' + groupname + '  '
-            for _ in noteStore.listNotebooks():
-                if _.stack == groupname:
-                    print >> r, '&emsp;&emsp;' + _.name + '  '
-                    for _ in notes_list_requests(_.guid, noteStore).notes:
+            for note in noteStore.listNotebooks():
+                if note.stack == groupname:
+                    print >> r, '&emsp;&emsp;' + note.name + '  '
+                    for note in notes_list_requests(note.guid, noteStore).notes:
                         print >> r, '&emsp;&emsp;&emsp;&emsp;' + \
-                            _.title, time_convert(_.created) + '  '
+                            note.title, time_convert(note.created) + '  '
 
 def git():
     if 'clean' not in subprocess.check_output('git status',shell=True):
