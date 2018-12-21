@@ -57,10 +57,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
     with open('README.md', 'a+') as r:
         for groupname in groupList:
             print >> r, '- ' + groupname + '  '
-            for note in noteStore.listNotebooks():
-                if note.stack == groupname:
-                    print >> r, '&emsp;&emsp;' + note.name + '  '
-                    for note in notes_list_requests(note.guid, noteStore).notes:
+            for notebook in noteStore.listNotebooks():
+                if notebook.stack == groupname:
+                    print >> r, '&emsp;&emsp;' + notebook.name + '  '
+                    for note in notes_list_requests(notebook.guid, noteStore).notes:
                         print >> r, '&emsp;&emsp;&emsp;&emsp;' + \
                             note.title, time_convert(note.created) + '  '
 
