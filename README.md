@@ -10,6 +10,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 
 - Operating System  
 &emsp;&emsp;Mac OS  
+&emsp;&emsp;&emsp;&emsp;Fix "Fetching" delay when selecting "Open With" on Mac 2018-10-22  
 &emsp;&emsp;&emsp;&emsp;破解MAC版欧陆词典3.6.8 2018-05-05  
 &emsp;&emsp;&emsp;&emsp;ITerm 光标按照单词移动 2016-03-18  
 &emsp;&emsp;&emsp;&emsp;macOS Sierra 如何打开任何来源 2017-02-05  
@@ -68,6 +69,10 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;CN2的那些事-CN2线路与VPS服务商介绍 2018-12-14  
+&emsp;&emsp;&emsp;&emsp;检测Linux虚拟化平台类型的几种方式 2018-12-14  
+&emsp;&emsp;&emsp;&emsp;nginx 读取文件 permission denied 2018-12-08  
+&emsp;&emsp;&emsp;&emsp;NameSilo更换NS服务器及域名解析步骤详解 2018-12-08  
 &emsp;&emsp;&emsp;&emsp;ss-sever-lantency-test.sh 2018-03-30  
 &emsp;&emsp;&emsp;&emsp;SSH Login log files on centos7 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Centos: incrond inotify: Monitor Directories For Changes And Take Action 2018-03-08  
@@ -275,6 +280,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Social Medium  
 &emsp;&emsp;Coins  
 &emsp;&emsp;&emsp;&emsp;除了比特币，今年翻了20倍的狗狗币你了解吗？ 2017-08-10  
+- Web Dev  
+&emsp;&emsp;Django  
+&emsp;&emsp;&emsp;&emsp;How to reset db in Django? 2018-11-20  
+&emsp;&emsp;&emsp;&emsp;How to Extend Django User Model 2018-11-12  
+&emsp;&emsp;Flask  
 - 其它  
 &emsp;&emsp;人文关怀  
 &emsp;&emsp;&emsp;&emsp;媒体：耶路撒冷示威声起 “三教圣城”难解纷争 2017-12-18  
@@ -297,6 +307,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;夹缝中的80后 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;幻想是最大的不自由 2015-06-13  
 &emsp;&emsp;垠神相关  
+&emsp;&emsp;&emsp;&emsp;王垠：赞用下半身思考的女人 2016-06-26  
 &emsp;&emsp;&emsp;&emsp;GTF - Great Teacher Friedman 2018-01-21  
 &emsp;&emsp;&emsp;&emsp;我对王垠的看法，兼答友人自己对自己未来学术道路选择之看法 2018-01-21  
 &emsp;&emsp;&emsp;&emsp;AlphaGo Zero 和强人工智能 2017-11-05  
@@ -309,7 +320,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;我为什么不在乎人工智能 2017-04-29  
 &emsp;&emsp;&emsp;&emsp;从工具的奴隶到工具的主人 2016-12-29  
 &emsp;&emsp;&emsp;&emsp;如何掌握程序语言 2016-12-29  
-&emsp;&emsp;&emsp;&emsp;王垠：赞那啥思考 2016-06-26  
 &emsp;&emsp;&emsp;&emsp;如何赢得技术争论 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;王垠的过去和现状 - DiyCode 2016-10-26  
 &emsp;&emsp;&emsp;&emsp;十年前的我的来信 2016-05-21  
@@ -366,6 +376,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;你的牙膏真的选对了吗？细数几款小编海淘过的产品 2018-01-30  
 &emsp;&emsp;&emsp;&emsp;牙医都害怕的这3种牙膏，赶紧 丢掉 2018-01-30  
 &emsp;&emsp;Security&Privacy  
+&emsp;&emsp;&emsp;&emsp;evernote Developer Tokens 2018-12-21  
 &emsp;&emsp;&emsp;&emsp;Fiddler教程 2018-06-22  
 &emsp;&emsp;&emsp;&emsp;How To Set Up Multi-Factor Authentication for SSH on Ubuntu 14.04 2018-06-12  
 &emsp;&emsp;&emsp;&emsp;Where are the OpenVPN connection logs and configuration files? 2018-06-12  
@@ -489,6 +500,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA For Mac 快捷键 2016-05-18  
 &emsp;&emsp;&emsp;&emsp;IntelliJ IDEA 常用设置讲解1 2016-05-18  
 &emsp;&emsp;Pycharm  
+&emsp;&emsp;&emsp;&emsp;pycharm 激活码及使用方式 2018-11-25  
 &emsp;&emsp;&emsp;&emsp;How to Find Things in DataGrip 2017-10-14  
 &emsp;&emsp;&emsp;&emsp;PyCharm2016.3专业版注册码 2017-03-21  
 &emsp;&emsp;&emsp;&emsp;PyCharm as the Ultimate Python Debugger 2016-08-18  
@@ -507,6 +519,11 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;独家专访Air Supply:组合长久无诀窍 喜欢Adele 2018-01-24  
 - 运维  
 &emsp;&emsp;运维通用  
+&emsp;&emsp;&emsp;&emsp;域名解析TTL是什么意思 TTL值设置为多少合适？ 2018-12-12  
+&emsp;&emsp;&emsp;&emsp;AdSense in Jekyll 2018-12-08  
+&emsp;&emsp;&emsp;&emsp;Add Google AdSense to a Jekyll website 2018-12-08  
+&emsp;&emsp;&emsp;&emsp;Set up a Jekyll site on a vps with Ubuntu, Nginx and Letsencrypt 2018-12-08  
+&emsp;&emsp;&emsp;&emsp;Namesilo域名2018域名解析详细图文教程 2018-12-08  
 &emsp;&emsp;&emsp;&emsp;Google Cloud服务免费申请试用以及使用教程 2018-02-22  
 &emsp;&emsp;&emsp;&emsp;Deploying at Scale: Chef, Puppet, Ansible, Fabric and SaltStack 2017-12-05  
 &emsp;&emsp;&emsp;&emsp;理解HTTP幂等性 2017-11-24  
@@ -715,6 +732,8 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;内存溢出和内存泄漏的区别 2016-08-07  
 &emsp;&emsp;&emsp;&emsp;聊聊内存泄露 2016-08-07  
 &emsp;&emsp;Php  
+&emsp;&emsp;&emsp;&emsp;手把手建站教程：基于Nginx部署搭建配置WordPress 2018-12-08  
+&emsp;&emsp;&emsp;&emsp;会有多少人去设置 WordPress 的 secret-key 呢？ 2018-12-08  
 &emsp;&emsp;&emsp;&emsp;ThinkPHP5 RESTful API开发版本控制 2018-03-14  
 &emsp;&emsp;&emsp;&emsp;phpStorm+xdebug断点调试环境配置最简实践 2018-03-12  
 &emsp;&emsp;&emsp;&emsp;Debugging with PhpStorm: Ultimate Guide 2017-11-16  
