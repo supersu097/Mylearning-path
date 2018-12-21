@@ -41,7 +41,6 @@ def main():
                             sandbox=False)
     noteStore = client.get_note_store()
     groupList = set([_.stack for _ in noteStore.listNotebooks()])
-    groupList.remove(config.remove_item)
     with open('README.md', 'w') as r:
         r.write("""
 # Mylearning-road
