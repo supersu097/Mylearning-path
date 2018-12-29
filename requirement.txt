@@ -1,1 +1,1 @@
-evernote==1.25.2
+evernote==1.25.3
