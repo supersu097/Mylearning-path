@@ -69,6 +69,18 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How To Build CyanogenMod Android for OnePlus One ("bacon") - CyanogenMod 2015-06-30  
 &emsp;&emsp;&emsp;&emsp;临时关闭selinux方法 2015-06-08  
 &emsp;&emsp;GNU/Linux  
+&emsp;&emsp;&emsp;&emsp;CentOS7 VMware虚拟机克隆 网卡无法启动问题解决 2019-01-26  
+&emsp;&emsp;&emsp;&emsp;国内yum源的安装(163，阿里云，epel) 2017-11-29  
+&emsp;&emsp;&emsp;&emsp;Ansible入门与playbook实战 2019-01-20  
+&emsp;&emsp;&emsp;&emsp;SSH 远程执行任务 2019-01-19  
+&emsp;&emsp;&emsp;&emsp;centos永久关闭防火墙 2019-01-18  
+&emsp;&emsp;&emsp;&emsp;SaltStack连接Linux&Windows机器排错 2019-01-18  
+&emsp;&emsp;&emsp;&emsp;salt 集群中部分minion无法连接master 2019-01-18  
+&emsp;&emsp;&emsp;&emsp;Centos 7 yum代理设置 2019-01-18  
+&emsp;&emsp;&emsp;&emsp;CentOS6系统安装Python2.7 2019-01-18  
+&emsp;&emsp;&emsp;&emsp;CentOS is ignoring my public key 2019-01-16  
+&emsp;&emsp;&emsp;&emsp;VMware虚拟机克隆Linux(CentOS)系统后找不到eth0网卡的问题 2019-01-16  
+&emsp;&emsp;&emsp;&emsp;centos修改主机名的正确方法 2019-01-16  
 &emsp;&emsp;&emsp;&emsp;CN2的那些事-CN2线路与VPS服务商介绍 2018-12-14  
 &emsp;&emsp;&emsp;&emsp;检测Linux虚拟化平台类型的几种方式 2018-12-14  
 &emsp;&emsp;&emsp;&emsp;nginx 读取文件 permission denied 2018-12-08  
@@ -118,7 +130,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;How to Start/Stop and Enable/Disable FirewallD and Iptables Firewall in Linux 2017-11-30  
 &emsp;&emsp;&emsp;&emsp;Linux Troubleshooting: How To Fix 'lsb_release' Command Not Found In CentOS? 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;Centos 7 学习之静态IP设置 2017-11-29  
-&emsp;&emsp;&emsp;&emsp;国内yum源的安装(163，阿里云，epel) 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;RHEL/CentOS可用的第三方软件库详解 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;CentOS 7 网络配置详解 2017-11-29  
 &emsp;&emsp;&emsp;&emsp;How do I grep recursively through .gz files? 2017-11-24  
@@ -172,7 +183,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;ubuntu永久修改主机名 2016-06-13  
 &emsp;&emsp;&emsp;&emsp;Linux命令：sudo 2016-05-28  
 &emsp;&emsp;&emsp;&emsp;Centos 6 上安装easy_install 2016-03-20  
-&emsp;&emsp;&emsp;&emsp;VMWaer克隆centos后网络的问题解决 2016-03-20  
 &emsp;&emsp;&emsp;&emsp;Sublime插件：主题篇 2016-03-19  
 &emsp;&emsp;&emsp;&emsp;CentOS中修改系统默认语言 2016-03-19  
 &emsp;&emsp;&emsp;&emsp;CentOS6.5配置网络 2016-03-19  
@@ -200,7 +210,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;用cURL实现HTTP操作 2015-09-16  
 &emsp;&emsp;&emsp;&emsp;访问没有外网ip的NAS服务器的解决办法 2015-09-07  
 &emsp;&emsp;&emsp;&emsp;How To Set Up SSH Tunneling on a VPS 2015-09-06  
-&emsp;&emsp;&emsp;&emsp;nat123软件linux2.8及以上版本的安装启动教程 2015-08-29  
 &emsp;&emsp;&emsp;&emsp;OpenSSH普通用户无法登录的几种情况的解决方法 - 胡振伟博客 2015-09-02  
 &emsp;&emsp;&emsp;&emsp;让ubuntu 终端显示英文提示，而桌面环境显示中文的方法 2015-09-02  
 &emsp;&emsp;&emsp;&emsp;Linux touch 命令-为什么我们需要改变时间戳？ 2015-09-01  
@@ -237,6 +246,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;Openwrt无线中继设置并访问外网 2017-08-09  
 - DataBase  
 &emsp;&emsp;SQL  
+&emsp;&emsp;&emsp;&emsp;MySQL Explain详解 2019-01-27  
 &emsp;&emsp;&emsp;&emsp;使用PyMySQL处理大结果集的方法 2018-04-24  
 &emsp;&emsp;&emsp;&emsp;数据库表设计（一对多，多对多） 2018-04-14  
 &emsp;&emsp;&emsp;&emsp;MySQL 教程 | 菜鸟教程 2017-10-31  
@@ -346,7 +356,6 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;清华梦的粉碎——写给清华大学的退学申请 2016-04-13  
 &emsp;&emsp;&emsp;&emsp;编程的宗派 2016-04-13  
 &emsp;&emsp;程序人生  
-&emsp;&emsp;&emsp;&emsp;关于我们_最专业的 IP 地址库_IPIP.NET 2018-12-29  
 &emsp;&emsp;&emsp;&emsp;观点|17 年编程生涯的三大经验总结 2018-01-09  
 &emsp;&emsp;&emsp;&emsp;U盘已沦为礼品 移动存储第一股朗科科技仍靠专利官司赚钱 2017-10-15  
 &emsp;&emsp;&emsp;&emsp;如何成为一名Top DevOps Engineer 2017-09-02  
@@ -371,6 +380,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;Freelance Life  
 &emsp;&emsp;&emsp;&emsp;Upwork Profile Not Approved? Here's What You Can Do 2017-09-10  
 &emsp;&emsp;生活&医学  
+&emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有多大不同？ 2019-01-19  
 &emsp;&emsp;&emsp;&emsp;为什么抑制前列腺素合成可以止痛？ 2018-02-07  
 &emsp;&emsp;&emsp;&emsp;肾上腺疲劳综合症 2018-02-06  
 &emsp;&emsp;&emsp;&emsp;几块钱和几十块钱的牙膏有什么不同？效果真的有很大差别吗？ 2018-01-30  
@@ -408,6 +418,7 @@ http://stackoverflow.com/questions/18532862/setting-notefilter-in-evernote-api
 &emsp;&emsp;&emsp;&emsp;「暴力」破解猫眼电影票房数据的反爬虫机制 2017-08-25  
 &emsp;&emsp;&emsp;&emsp;利用『爬虫』 折衷解决 个人支付宝支付系统获取账单信息 2017-08-16  
 &emsp;&emsp;Scrapy  
+&emsp;&emsp;&emsp;&emsp;scrapy数据保存为excel 2019-01-03  
 &emsp;&emsp;&emsp;&emsp;pycharm下打开、执行并调试scrapy爬虫程序 2018-06-02  
 &emsp;&emsp;&emsp;&emsp;Scrapy第一战—爬取智联招聘 2018-05-08  
 &emsp;&emsp;&emsp;&emsp;scrapy学习笔记 2018-05-08  
